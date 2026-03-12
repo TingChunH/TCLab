@@ -11,7 +11,7 @@ Our lab brings together students who are interested in semiconductor fabrication
 ---
 
 ## Graduate Students
-
+ """ 
 <div class="member-grid">
 
   <div class="member-card">
@@ -30,13 +30,13 @@ Our lab brings together students who are interested in semiconductor fabrication
     <p>Email</p>
   </div>
 
-</div>
+</div> """ 
 
 ---
 
 ## Undergraduate Researchers
 
-<div class="member-grid">
+ """ <div class="member-grid">
 
   <div class="member-card">
     <img src="../assets/images/members/student-placeholder.jpg" alt="Student Name" class="member-photo">
@@ -47,12 +47,12 @@ Our lab brings together students who are interested in semiconductor fabrication
   </div>
 
 </div>
-
+ """ 
 ---
 
 ## Alumni
 
-<div class="member-grid">
+ """ <div class="member-grid">
 
   <div class="member-card">
     <img src="../assets/images/members/student-placeholder.jpg" alt="Alumni Name" class="member-photo">
@@ -61,4 +61,4 @@ Our lab brings together students who are interested in semiconductor fabrication
     <p>Current Position</p>
   </div>
 
-</div>
+</div> """ 
