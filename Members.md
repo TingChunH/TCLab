@@ -10,16 +10,6 @@ Our lab brings together students from physics, electronics, and materials scienc
 
 ---
 
-## Principal Investigator
-
-**Ting-Chun Huang (黃鼎鈞)**  
-Assistant Professor  
-Master Program in Nano-Electronic Engineering and Design (NEED)  
-Department of Electronic Engineering  
-Chang Gung University
-
----
-
 ## Graduate Students
 
 ### Name  
