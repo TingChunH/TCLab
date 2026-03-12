@@ -255,6 +255,14 @@ a {
   color: #374151;
 }
 
+/* PI photo style */
+.pi-photo {
+  width: 250px;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
 .site-footer {
   border-top: 1px solid var(--line);
   background: transparent;
