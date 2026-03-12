@@ -35,5 +35,5 @@ permalink: /pi/
 
 ### Professional Links
 
-- Google Scholar: <https://scholar.google.com/citations?user=iIrvgfkAAAAJ&hl=zh-TW>
-- LinkedIn: <https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit>
+- Google Scholar: <https://reurl.cc/dp5v42>
+- LinkedIn:  <https://www.linkedin.com/in/tingchunhuang>
