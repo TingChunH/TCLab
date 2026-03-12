@@ -33,13 +33,9 @@ We also encourage students to integrate **artificial intelligence tools** into t
 If you are interested in joining the lab, please send the following materials to:
 
 **Email:**  
-tchuang@cgu.edu.tw
+[tchuang@cgu.edu.tw](mailto:tchuang@cgu.edu.tw?subject=TC%20Lab%20Application)
 
 ### Required Materials
 
 - Self-introduction  
 - Short statement of interest---
-layout: default
-title: Join Us
-permalink: /join-us/
----
