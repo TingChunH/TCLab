@@ -1,1 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <div class="nav-wrap">
+      <a class="site-brand" href="{{ '/' | relative_url }}">
+        <span class="site-brand-main">TC Lab</span>
+        <span class="site-brand-sub">Technology and Curiosity</span>
+      </a>
 
+      <nav class="site-nav">
+        <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a>
+        <a href="{{ '/pi/' | relative_url }}" class="{% if page.url == '/pi/' %}active{% endif %}">PI</a>
+        <a href="{{ '/research/' | relative_url }}" class="{% if page.url == '/research/' %}active{% endif %}">Research</a>
+        <a href="{{ '/members/' | relative_url }}" class="{% if page.url == '/members/' %}active{% endif %}">Members</a>
+        <a href="{{ '/publications/' | relative_url }}" class="{% if page.url == '/publications/' %}active{% endif %}">Publications</a>
+        <a href="{{ '/teaching/' | relative_url }}" class="{% if page.url == '/teaching/' %}active{% endif %}">Teaching</a>
+        <a href="{{ '/join-us/' | relative_url }}" class="{% if page.url == '/join-us/' %}active{% endif %}">Join Us</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="page-shell">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-wrap">
+      <p>© {{ site.time | date: "%Y" }} TC Lab</p>
+    </div>
+  </footer>
+</body>
+</html>
