@@ -12,20 +12,53 @@ Our lab brings together students from physics, electronics, and materials scienc
 
 ## Graduate Students
 
-### Name  
-Research Topic  
-Email
+<div class="member-grid">
+
+  <div class="member-card">
+    <img src="../assets/images/members/student-placeholder.jpg" alt="Student Name" class="member-photo">
+    <h3>Name</h3>
+    <p class="member-role">Graduate Student</p>
+    <p>Research Topic</p>
+    <p>Email</p>
+  </div>
+
+  <div class="member-card">
+    <img src="../assets/images/members/student-placeholder.jpg" alt="Student Name" class="member-photo">
+    <h3>Name</h3>
+    <p class="member-role">Graduate Student</p>
+    <p>Research Topic</p>
+    <p>Email</p>
+  </div>
+
+</div>
 
 ---
 
 ## Undergraduate Researchers
 
-### Name  
-Research Topic  
-Email
+<div class="member-grid">
+
+  <div class="member-card">
+    <img src="../assets/images/members/student-placeholder.jpg" alt="Student Name" class="member-photo">
+    <h3>Name</h3>
+    <p class="member-role">Undergraduate Researcher</p>
+    <p>Research Topic</p>
+    <p>Email</p>
+  </div>
+
+</div>
 
 ---
 
 ## Alumni
 
-**Name** — Current position
+<div class="member-grid">
+
+  <div class="member-card">
+    <img src="../assets/images/members/student-placeholder.jpg" alt="Alumni Name" class="member-photo">
+    <h3>Name</h3>
+    <p class="member-role">Alumni</p>
+    <p>Current Position</p>
+  </div>
+
+</div>
