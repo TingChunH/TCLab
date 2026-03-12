@@ -12,40 +12,37 @@ Our research outputs include peer-reviewed journal articles and international co
 
 ## Journal Articles
 
-1. **Ting-Chun Huang**, Peter Wang, Ya-Ping Hsieh, Mario Hofmann, Sheng-Kuei Chiu*  
-   **“Bridging 2D Magnetism and CMOS through Low-Thermal-Budget Growth of Semiconducting Ferromagnetic VS₂.”**  
-   *(To be submitted)*
 
-2. **Ting-Chun Huang**, Yu-Xin Chen, Chi-Feng Pai, Chiashain Chuang, Ya-Ping Hsieh, Mario Hofmann  
+1. **Ting-Chun Huang**, Yu-Xin Chen, Chi-Feng Pai, Chiashain Chuang, Ya-Ping Hsieh, Mario Hofmann  
    “Uninterrupted Contact Deposition for Revealing Intrinsic Spin Dynamics in Ferromagnet/Graphene Junctions.”  
    *IEEE Transactions on Magnetics* (2025) — **Under Review**  
    *(Impact Factor: 2.1, Ranking: 227/368)*
 
-3. **Ting-Chun Huang**, Yu-Xin Chen, Chun-Yi Lin, Chi-Feng Pai, Chiashian Chuang, Ya-Ping Hsieh, Mario Hofmann*  
+2. **Ting-Chun Huang**, Yu-Xin Chen, Chun-Yi Lin, Chi-Feng Pai, Chiashian Chuang, Ya-Ping Hsieh, Mario Hofmann*  
    “Unpinning the magnetic interface between 2D materials and NiFe for ultra-low coercivity spin valves.”  
    *npj 2D Materials and Applications* (2025)  
    *(Impact Factor: 8.8, Ranking: 75/461)*  
    https://www.nature.com/articles/s41699-025-00624-7
 
-4. **Ting-Chun Huang**, Yu-Xin Chen, Chun-Yi Lin, Chi-Feng Pai, Chiashian Chuang, Ya-Ping Hsieh*, Mario Hofmann*  
+3. **Ting-Chun Huang**, Yu-Xin Chen, Chun-Yi Lin, Chi-Feng Pai, Chiashian Chuang, Ya-Ping Hsieh*, Mario Hofmann*  
    “Observing and suppressing metallization in MoS₂ for near-ideal spin filtering.”  
    *ACS Applied Materials & Interfaces* (2025)  
    *(Impact Factor: 8.7, Ranking: 83/461)*  
    https://pubs.acs.org/doi/10.1021/acsami.5c15955
 
-5. Karthika Vijayan, Yu-Xiang Chen, Pradyumna Kumar Chand, **Ting-Chun Huang**, Ya-Ping Hsieh, Mario Hofmann*  
+4. Karthika Vijayan, Yu-Xiang Chen, Pradyumna Kumar Chand, **Ting-Chun Huang**, Ya-Ping Hsieh, Mario Hofmann*  
    “High-Performance Optoelectronics Enabled by Solution-Based Sintering of Perovskite Nanocrystals.”  
    *Nanoscale Horizons* (2025)  
    *(Impact Factor: 6.6, Ranking: 112/461)*  
    https://doi.org/10.1039/D5NH00272A
 
-6. **Ting-Chun Huang**, Wen-Hua Wu, Meng-Ting Wu, Chiashain Chuang, Chi-Feng Pai, Ya-Ping Hsieh, Mario Hofmann*  
+5. **Ting-Chun Huang**, Wen-Hua Wu, Meng-Ting Wu, Chiashain Chuang, Chi-Feng Pai, Ya-Ping Hsieh, Mario Hofmann*  
    “Realizing High-Quality Interfaces in Two-Dimensional Material Spin Valves.”  
    *ACS Materials Letters* (2024)  
    *(Impact Factor: 8.2, Ranking: 77/461)*  
    https://doi.org/10.1021/acsmaterialslett.3c01194
 
-7. A. Singh, H. Y. Huang, Y. Y. Chin, Y. F. Liao, **T. C. Huang**, J. Okamoto, W. B. Wu, H. J. Lin,  
+6. A. Singh, H. Y. Huang, Y. Y. Chin, Y. F. Liao, **T. C. Huang**, J. Okamoto, W. B. Wu, H. J. Lin,  
    K. D. Tsuei, R. P. Wang, F. M. F. de Groot, C. N. Kuo, H. F. Liu, C. S. Lue,  
    C. T. Chen, D. J. Huang, and A. Chainani  
    “Electronic structure investigation of a charge-density-wave coupled to a metal-to-metal transition in Ce₃Co₄Sn₁₃.”  
