@@ -6,7 +6,7 @@ permalink: /members/
 
 # Members
 
-Our lab brings together students from physics, electronics, and materials science backgrounds who are interested in exploring semiconductor devices, two-dimensional materials, and spintronics.
+Our lab brings together students who are interested in semiconductor fabrication, emerging quantum materials, and the application of artificial intelligence in scientific research.
 
 ---
 
