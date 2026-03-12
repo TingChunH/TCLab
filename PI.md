@@ -6,7 +6,7 @@ permalink: /pi/
 
 # Principal Investigator
 
-<img src="/assets/images/ting-chun-huang.jpg" class="pi-photo">
+<img src="/assets/images/pi/ting-chun-huang.jpg" alt="Ting-Chun Huang" class="pi-photo">
 
 ## Ting-Chun Huang (黃鼎鈞), Ph.D.
 
