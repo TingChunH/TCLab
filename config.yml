@@ -1,1 +1,5 @@
-
+title: TC Lab
+description: Technology and Curiosity Lab
+baseurl: "/你的repo名稱"
+url: "https://你的帳號.github.io"
+markdown: kramdown
