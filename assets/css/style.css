@@ -276,6 +276,48 @@ a {
   font-size: 0.92rem;
 }
 
+.member-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 24px;
+  margin-top: 20px;
+}
+
+.member-card {
+  background: var(--surface);
+  border: 1px solid rgba(229, 231, 235, 0.9);
+  border-radius: 20px;
+  box-shadow: var(--shadow);
+  padding: 24px 20px;
+  text-align: center;
+}
+
+.member-photo {
+  width: 140px;
+  height: 170px;
+  object-fit: cover;
+  border-radius: 12px;
+  margin-bottom: 16px;
+}
+
+.member-card h3 {
+  margin: 0 0 8px;
+  font-size: 1.1rem;
+  letter-spacing: -0.01em;
+}
+
+.member-role {
+  color: var(--accent);
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.member-card p {
+  margin: 6px 0;
+  color: #374151;
+  font-size: 0.95rem;
+}
+
 @media (max-width: 900px) {
   .nav-wrap {
     flex-direction: column;
