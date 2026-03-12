@@ -11,7 +11,7 @@ Our lab brings together students who are interested in semiconductor fabrication
 ---
 
 ## Graduate Students
- """ 
+
 <div class="member-grid">
 
   <div class="member-card">
@@ -30,7 +30,7 @@ Our lab brings together students who are interested in semiconductor fabrication
     <p>Email</p>
   </div>
 
-</div> """ 
+</div> 
 
 ---
 
