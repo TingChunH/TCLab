@@ -1,3 +1,9 @@
+---
+layout: default
+title: Research
+permalink: /research/
+---
+
 ## Graduate Students
 
 ### Name
