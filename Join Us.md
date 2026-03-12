@@ -1,3 +1,9 @@
+---
+layout: default
+title: Research
+permalink: /research/
+---
+
 ## Opportunities
 
 We welcome motivated undergraduate, master's, and Ph.D. students who are interested in semiconductor physics, nanotechnology, and advanced materials to join our research team.
