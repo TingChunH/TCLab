@@ -1,3 +1,9 @@
+---
+layout: default
+title: Research
+permalink: /research/
+---
+
 ## Journal Articles
 
 1.     **Ting-Chun Huang,** Peter Wang, Ya-Ping Hsieh, Mario Hofmann, Sheng-Kuei Chiu* “Bridging 2D Magnetism and CMOS through Low-Thermal-Budget Growth of Semiconducting Ferromagnetic VS2.”**(To be submitted)**
