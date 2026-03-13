@@ -15,22 +15,22 @@ Our lab brings together students who are interested in semiconductor fabrication
 <div class="member-grid">
 
   <div class="member-card">
-    <img src="../assets/images/members/student-placeholder.jpg" alt="Student Name" class="member-photo">
-    <h3>Name</h3>
-    <p class="member-role">Graduate Student</p>
+    <img src="../assets/images/members/徐承楷.jpg" alt="Cheng-Kai Xu (Kevin Xu)" class="member-photo">
+    <h3>Cheng-Kai Xu (Kevin Xu)</h3>
+    <p class="member-role">PhD Student</p>
     <p>Research Topic</p>
-    <p>Email</p>
+    <p><a href="mailto:D1327109@cgu.edu.tw">D1327109@cgu.edu.tw</a></p>
   </div>
 
   <div class="member-card">
-    <img src="../assets/images/members/student-placeholder.jpg" alt="Student Name" class="member-photo">
-    <h3>Name</h3>
-    <p class="member-role">Graduate Student</p>
+    <img src="../assets/images/members/邱佳瑜.jpg" alt="Gina Chiu" class="member-photo">
+    <h3>Gina Chiu</h3>
+    <p class="member-role">PhD Student</p>
     <p>Research Topic</p>
-    <p>Email</p>
+    <p><a href="mailto:D1327102@cgu.edu.tw">D1327102@cgu.edu.tw</a></p>
   </div>
 
-</div> 
+</div>
 
 ---
 
