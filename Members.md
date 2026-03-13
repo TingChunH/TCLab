@@ -15,7 +15,7 @@ Our lab brings together students who are interested in semiconductor fabrication
 <div class="member-grid">
 
   <div class="member-card">
-    <img src="/assets/images/members/xu-cheng-kai.jpg" alt="Cheng-Kai Xu" class="member-photo">
+    <img src="{{ '/assets/images/members/xu-cheng-kai.jpg' | relative_url }}" alt="Cheng-Kai Xu" class="member-photo">
     <h3>Cheng-Kai Xu (Kevin Xu)</h3>
     <p class="member-role">PhD Student</p>
     <p>Research Topic</p>
@@ -23,7 +23,7 @@ Our lab brings together students who are interested in semiconductor fabrication
   </div>
 
   <div class="member-card">
-    <img src="/assets/images/members/gina-chiu.jpg" alt="Gina Chiu" class="member-photo">
+    <img src="{{ '/assets/images/members/gina-chiu.jpg' | relative_url }}" alt="Gina Chiu" class="member-photo">
     <h3>Gina Chiu</h3>
     <p class="member-role">PhD Student</p>
     <p>Research Topic</p>
@@ -31,14 +31,15 @@ Our lab brings together students who are interested in semiconductor fabrication
   </div>
 
 </div>
+
 ---
 
 ## Undergraduate Researchers
 
- <div class="member-grid">
+<div class="member-grid">
 
   <div class="member-card">
-    <img src="../assets/images/members/student-placeholder.jpg" alt="Student Name" class="member-photo">
+    <img src="{{ '/assets/images/members/student-placeholder.jpg' | relative_url }}" alt="Student Name" class="member-photo">
     <h3>Name</h3>
     <p class="member-role">Undergraduate Researcher</p>
     <p>Research Topic</p>
@@ -54,10 +55,10 @@ Our lab brings together students who are interested in semiconductor fabrication
 <div class="member-grid">
 
   <div class="member-card">
-    <img src="../assets/images/members/student-placeholder.jpg" alt="Alumni Name" class="member-photo">
+    <img src="{{ '/assets/images/members/student-placeholder.jpg' | relative_url }}" alt="Alumni Name" class="member-photo">
     <h3>Name</h3>
     <p class="member-role">Alumni</p>
     <p>Current Position</p>
   </div>
 
-</div> 
+</div>
