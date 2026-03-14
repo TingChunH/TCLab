@@ -34,14 +34,14 @@ Our lab brings together students who are interested in semiconductor fabrication
 
 ---
 
-## Undergraduate Researchers
+## Undergraduate Students
 
 <div class="member-grid">
 
   <div class="member-card">
     <img src="{{ '/assets/images/members/student-placeholder.jpg' | relative_url }}" alt="Student Name" class="member-photo">
     <h3>Name</h3>
-    <p class="member-role">Undergraduate Researcher</p>
+    <p class="member-role">Undergraduate Students</p>
     <p>Research Topic</p>
     <p>Email</p>
   </div>
