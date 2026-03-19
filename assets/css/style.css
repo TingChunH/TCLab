@@ -373,3 +373,22 @@ a {
     width: 180px;
   }
 }
+
+.research-figure {
+  margin: 2rem 0 2.5rem 0;
+  text-align: center;
+}
+
+.research-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+}
+
+.research-caption {
+  margin-top: 0.8rem;
+  font-size: 0.95rem;
+  color: #4b5563;
+  line-height: 1.6;
+}
