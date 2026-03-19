@@ -65,14 +65,14 @@ Our lab brings together students who are interested in semiconductor fabrication
     <img src="{{ '/assets/images/members/yu-jie-yan.jpg' | relative_url }}" alt="Yu-Jie Yan" class="member-photo">
     <h3>Yu-Jie Yan</h3>
     <p></p>
-    <p><a href="mailto:gary940527@gmail.com">gary940527@gmail.com</a></p>
+    <p><a href="mailto:yen940102@gmail.com">yen940102@gmail.com</a></p>
   </div>
 
   <div class="member-card">
     <img src="{{ '/assets/images/members/yeh-cheng-wei.jpg' | relative_url }}" alt="Cheng-Wei Yeh" class="member-photo">
     <h3>Cheng-Wei Yeh</h3>
     <p></p>
-    <p><a href="mailto:gary940527@gmail.com">gary940527@gmail.com</a></p>
+    <p><a href="mailto:tomy11030@gmail.com">tomy11030@gmail.com</a></p>
   </div>
 
   <div class="member-card">
@@ -98,17 +98,3 @@ Our lab brings together students who are interested in semiconductor fabrication
 
 </div>
 
----
-
-## Alumni
-
-<div class="member-grid">
-
-  <div class="member-card">
-    <img src="{{ '/assets/images/members/student-placeholder.jpg' | relative_url }}" alt="Alumni Name" class="member-photo">
-    <h3>Name</h3>
-    <p class="member-role">Alumni</p>
-    <p>Current Position</p>
-  </div>
-
-</div>
