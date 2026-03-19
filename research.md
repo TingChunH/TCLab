@@ -24,6 +24,13 @@ More recently, the 2D material family has expanded to include **nitrides and oth
 
 One of the most powerful features of 2D materials is that they can be assembled like **Lego bricks**. By stacking different atomic layers together, researchers can create **van der Waals heterostructures** in which each layer contributes a distinct function. These structures provide a versatile platform for studying interactions among charge, spin, lattice, and light, while also enabling new possibilities for electronic, spintronic, and quantum devices.
 
+<div class="research-figure">
+  <img src="{{ '/assets/images/Schematic-diagram/UCD.png' | relative_url }}" alt="Ultra-clean interface engineering in 2D material devices" class="research-image">
+  <p class="research-caption">
+    We develop advanced fabrication processes that create ultra-clean interfaces in two-dimensional material devices, enabling higher-quality heterostructures and improved device performance.
+  </p>
+</div>
+
 ---
 
 ### 2. Electronic and Spintronic Devices
@@ -35,6 +42,13 @@ Beyond conventional electronics, **spintronics** introduces an additional degree
 Two-dimensional materials provide exciting opportunities for advancing both electronic and spintronic devices. Their atomically thin nature allows precise control of interfaces and electronic structures, which is crucial for efficient charge transport and spin manipulation. When integrated with magnetic materials or engineered heterostructures, these systems can reveal new transport phenomena and enable novel device concepts.
 
 By integrating **novel materials, interface engineering, and device physics**, we aim to design next-generation electronic and spintronic devices that are faster, more energy-efficient, and capable of entirely new functionalities.
+
+<div class="research-figure">
+  <img src="{{ '/assets/images/Schematic-diagram/spin-devices.png' | relative_url }}" alt="2D materials for electronic and spintronic devices" class="research-image">
+  <p class="research-caption">
+    Two-dimensional materials provide new transport modes for electronic and spintronic devices, enhancing operational efficiency, functionality, and emerging opportunities for future technologies.
+  </p>
+</div>
 
 ---
 
