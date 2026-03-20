@@ -38,4 +38,4 @@ If you are interested in joining the lab, please send the following materials to
 ### Required Materials
 
 - Self-introduction  
-- Short statement of interest---
+- Short statement of interest
