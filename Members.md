@@ -106,4 +106,20 @@ Our lab brings together students who are interested in semiconductor fabrication
     <p><a href="mailto:B1327134@cgu.edu.tw">B1327134@cgu.edu.tw</a></p>
   </div>
 
+  <div class="member-card">
+    <img src="{{ '/assets/images/members/garry-wei.jpg' | relative_url }}" alt="Garry Wei" class="member-photo">
+    <h3>Garry Wei</h3>
+    <p class="member-name-zh">魏伯承</p>
+    <p></p>
+    <p><a href="mailto:b1227242@cgu.edu.tw">b1227242@cgu.edu.tw</a></p>
+  </div>
+
+  <div class="member-card">
+    <img src="{{ '/assets/images/members/max-yang.jpg' | relative_url }}" alt="Max Yang" class="member-photo">
+    <h3>Max Yang</h3>
+    <p class="member-name-zh">楊禮維</p>
+    <p></p>
+    <p><a href="mailto:090016hkhs@gmail.com">090016hkhs@gmail.com</a></p>
+  </div>
+
 </div>
