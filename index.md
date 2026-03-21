@@ -56,4 +56,4 @@ permalink: /
   <p class="visitor-caption">
     Our research reaches a global audience.
   </p>
-</section></section>
+</section>
