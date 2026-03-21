@@ -401,19 +401,4 @@ a {
   margin-bottom: 6px;
 }
 
-.visitor-panel {
-  margin-top: 32px;
-  text-align: center;
-}
-
-.visitor-section {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 320px;
-}
-
-.visitor-caption {
-  color: #64748b;
-  font-size: 0.95rem;
 }
