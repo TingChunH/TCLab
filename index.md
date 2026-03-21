@@ -43,12 +43,17 @@ permalink: /
   </div>
 </section>
 
+<!-- 🔽 Global Reach 放這裡 -->
 <section class="panel visitor-panel">
   <h2>Global Reach</h2>
+
   <div class="visitor-section">
-    <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=uwRCvX-bQtVZOILhOyG7Sq1_HWMX4O1Od2MAmL1LrQI"></script>
+    <script type="text/javascript" id="mmvst_globe"
+      src="https://mapmyvisitors.com/globe.js?d=uwRCvX-bQtVZOILhOyG7Sq1_HWMX4O1Od2MAmL1LrQI">
+    </script>
   </div>
+
   <p class="visitor-caption">
     Our research reaches a global audience.
   </p>
-</section>
+</section></section>
