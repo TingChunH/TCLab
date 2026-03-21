@@ -401,22 +401,19 @@ a {
   margin-bottom: 6px;
 }
 
+.visitor-panel {
+  margin-top: 32px;
+  text-align: center;
+}
+
 .visitor-section {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 2.5rem 0 1rem 0;
-}
-
-.visitor-section canvas {
-  max-width: 420px;
-  width: 100%;
-  height: auto;
+  min-height: 320px;
 }
 
 .visitor-caption {
-  text-align: center;
   color: #64748b;
   font-size: 0.95rem;
-  margin-bottom: 2.5rem;
 }
