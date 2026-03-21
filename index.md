@@ -42,3 +42,22 @@ permalink: /
     </ul>
   </div>
 </section>
+
+<!-- 🔽 Global Reach -->
+<section class="panel visitor-panel">
+  <h2>Global Reach</h2>
+
+  <div class="visitor-section">
+    <div class="visitor-fallback">
+      Visitors from around the world 🌍
+    </div>
+
+    <script type="text/javascript" id="mapmyvisitors"
+      src="https://mapmyvisitors.com/map.js?d=x35cy6DnnyioXLmEeW58md-_VgY8XnhxZtUPXl9GL9A&cl=ffffff&w=a">
+    </script>
+  </div>
+
+  <p class="visitor-caption">
+    Our research reaches a global audience.
+  </p>
+</section>
