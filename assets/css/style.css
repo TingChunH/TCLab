@@ -401,4 +401,27 @@ a {
   margin-bottom: 6px;
 }
 
+.visitor-panel {
+  margin-top: 32px;
+  text-align: center;
+}
+
+.visitor-section {
+  position: relative;
+  min-height: 260px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.visitor-fallback {
+  position: absolute;
+  color: #64748b;
+  font-size: 0.95rem;
+}
+
+.visitor-caption {
+  color: #64748b;
+  font-size: 0.95rem;
+  margin-top: 8px;
 }
