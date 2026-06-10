@@ -1,5 +1,39 @@
+{% assign is_zh = false %}
+{% if page.url == '/zh/' or page.url contains '/zh/' %}
+  {% assign is_zh = true %}
+{% endif %}
+
+{% if is_zh %}
+  {% assign home_url = '/zh/' %}
+  {% assign pi_url = '/zh/pi/' %}
+  {% assign research_url = '/zh/research/' %}
+  {% assign members_url = '/zh/members/' %}
+  {% assign gallery_url = '/zh/gallery/' %}
+  {% assign publications_url = '/zh/publications/' %}
+  {% assign teaching_url = '/zh/teaching/' %}
+  {% assign join_url = '/zh/join-us/' %}
+  {% assign lang_switch_url = page.url | remove_first: '/zh' %}
+  {% if lang_switch_url == '' %}
+    {% assign lang_switch_url = '/' %}
+  {% endif %}
+{% else %}
+  {% assign home_url = '/' %}
+  {% assign pi_url = '/pi/' %}
+  {% assign research_url = '/research/' %}
+  {% assign members_url = '/members/' %}
+  {% assign gallery_url = '/gallery/' %}
+  {% assign publications_url = '/publications/' %}
+  {% assign teaching_url = '/teaching/' %}
+  {% assign join_url = '/join-us/' %}
+  {% if page.url == '/' %}
+    {% assign lang_switch_url = '/zh/' %}
+  {% else %}
+    {% assign lang_switch_url = page.url | prepend: '/zh' %}
+  {% endif %}
+{% endif %}
+
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{% if is_zh %}zh-Hant{% else %}en{% endif %}">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -18,20 +52,21 @@
 <body>
   <header class="site-header">
     <div class="nav-wrap">
-      <a class="site-brand" href="{{ '/' | relative_url }}">
+      <a class="site-brand" href="{{ home_url | relative_url }}">
         <span class="site-brand-main">TC Lab</span>
-        <span class="site-brand-sub">Technology and Curiosity</span>
+        <span class="site-brand-sub">{% if is_zh %}科技與好奇心{% else %}Technology and Curiosity{% endif %}</span>
       </a>
 
       <nav class="site-nav">
-        <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a>
-        <a href="{{ '/pi/' | relative_url }}" class="{% if page.url == '/pi/' %}active{% endif %}">PI</a>
-        <a href="{{ '/research/' | relative_url }}" class="{% if page.url == '/research/' %}active{% endif %}">Research</a>
-        <a href="{{ '/members/' | relative_url }}" class="{% if page.url == '/members/' %}active{% endif %}">Members</a>
-        <a href="{{ '/gallery/' | relative_url }}" class="{% if page.url == '/gallery/' %}active{% endif %}">Gallery</a>
-        <a href="{{ '/publications/' | relative_url }}" class="{% if page.url == '/publications/' %}active{% endif %}">Publications</a>
-        <a href="{{ '/teaching/' | relative_url }}" class="{% if page.url == '/teaching/' %}active{% endif %}">Teaching</a>
-        <a href="{{ '/join-us/' | relative_url }}" class="{% if page.url == '/join-us/' %}active{% endif %}">Join Us</a>
+        <a href="{{ home_url | relative_url }}" class="{% if page.url == home_url %}active{% endif %}">{% if is_zh %}首頁{% else %}Home{% endif %}</a>
+        <a href="{{ pi_url | relative_url }}" class="{% if page.url == pi_url %}active{% endif %}">PI</a>
+        <a href="{{ research_url | relative_url }}" class="{% if page.url == research_url %}active{% endif %}">{% if is_zh %}研究方向{% else %}Research{% endif %}</a>
+        <a href="{{ members_url | relative_url }}" class="{% if page.url == members_url %}active{% endif %}">{% if is_zh %}成員{% else %}Members{% endif %}</a>
+        <a href="{{ gallery_url | relative_url }}" class="{% if page.url == gallery_url %}active{% endif %}">{% if is_zh %}相簿{% else %}Gallery{% endif %}</a>
+        <a href="{{ publications_url | relative_url }}" class="{% if page.url == publications_url %}active{% endif %}">{% if is_zh %}論文發表{% else %}Publications{% endif %}</a>
+        <a href="{{ teaching_url | relative_url }}" class="{% if page.url == teaching_url %}active{% endif %}">{% if is_zh %}教學{% else %}Teaching{% endif %}</a>
+        <a href="{{ join_url | relative_url }}" class="{% if page.url == join_url %}active{% endif %}">{% if is_zh %}加入我們{% else %}Join Us{% endif %}</a>
+        <a class="language-switch" href="{{ lang_switch_url | relative_url }}">{% if is_zh %}EN{% else %}中文{% endif %}</a>
       </nav>
     </div>
   </header>
