@@ -5,14 +5,14 @@ permalink: /zh/
 ---
 
 <section class="hero-card">
-  <div class="hero-kicker">科技與好奇心</div>
+  <div class="hero-kicker">科技(Technology)與好奇心(Curiosity)</div>
   <h1 class="hero-title">TC Lab</h1>
   <p class="hero-subtitle">
     我們是一個探索先進工程、前瞻材料與下一代電子技術的研究團隊。
   </p>
 
   <div class="hero-tagline">
-    工程前沿。<br>
+    先進工程。<br>
     理解物理。<br>
     建構未來。
   </div>
@@ -28,7 +28,7 @@ permalink: /zh/
   <div class="panel">
     <h2>實驗室簡介</h2>
     <p>
-      本實驗室發展先進工程策略，並探索新興材料，以創造下一代電子與自旋電子元件。我們研究低維系統中的電子與自旋現象；在這些系統中，介面、量子效應與材料設計為元件功能帶來新的可能性。透過連結基礎物理與實際工程，我們致力於將科學發現轉化為未來運算科技。
+      本實驗室發展先進工程策略，並探索新興材料，以創造下一代電子與自旋電子元件。我們研究低維系統中的電子與自旋現象；在這些系統中，介面、量子效應與材料設計為元件功能帶來新的可能性，透過連結基礎物理與實際工程，我們致力於將科學發現轉化為未來運算科技。
     </p>
   </div>
 
