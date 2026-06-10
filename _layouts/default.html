@@ -10,7 +10,6 @@
   {% assign members_url = '/zh/members/' %}
   {% assign gallery_url = '/zh/gallery/' %}
   {% assign publications_url = '/zh/publications/' %}
-  {% assign teaching_url = '/zh/teaching/' %}
   {% assign join_url = '/zh/join-us/' %}
   {% assign lang_switch_url = page.url | remove_first: '/zh' %}
   {% if lang_switch_url == '' %}
@@ -23,7 +22,6 @@
   {% assign members_url = '/members/' %}
   {% assign gallery_url = '/gallery/' %}
   {% assign publications_url = '/publications/' %}
-  {% assign teaching_url = '/teaching/' %}
   {% assign join_url = '/join-us/' %}
   {% if page.url == '/' %}
     {% assign lang_switch_url = '/zh/' %}
@@ -64,7 +62,6 @@
         <a href="{{ members_url | relative_url }}" class="{% if page.url == members_url %}active{% endif %}">{% if is_zh %}成員{% else %}Members{% endif %}</a>
         <a href="{{ gallery_url | relative_url }}" class="{% if page.url == gallery_url %}active{% endif %}">{% if is_zh %}相簿{% else %}Gallery{% endif %}</a>
         <a href="{{ publications_url | relative_url }}" class="{% if page.url == publications_url %}active{% endif %}">{% if is_zh %}論文發表{% else %}Publications{% endif %}</a>
-        <a href="{{ teaching_url | relative_url }}" class="{% if page.url == teaching_url %}active{% endif %}">{% if is_zh %}教學{% else %}Teaching{% endif %}</a>
         <a href="{{ join_url | relative_url }}" class="{% if page.url == join_url %}active{% endif %}">{% if is_zh %}加入我們{% else %}Join Us{% endif %}</a>
         <a class="language-switch" href="{{ lang_switch_url | relative_url }}">{% if is_zh %}EN{% else %}中文{% endif %}</a>
       </nav>
