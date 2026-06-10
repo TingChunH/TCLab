@@ -99,6 +99,14 @@ Our lab brings together students who are interested in semiconductor fabrication
   </div>
 
   <div class="member-card">
+    <img src="{{ '/assets/images/members/ecelia-kao.jpg' | relative_url }}" alt="Ecelia Kao" class="member-photo">
+    <h3>Ecelia</h3>
+    <p class="member-name-zh">高嘉琪</p>
+    <p></p>
+    <p><a href="mailto:b1327116@cgu.edu.tw">b1327116@cgu.edu.tw</a></p>
+  </div>
+
+  <div class="member-card">
     <img src="{{ '/assets/images/members/chienyu.jpg' | relative_url }}" alt="Chienyu Liu" class="member-photo">
     <h3>Chienyu Liu</h3>
     <p class="member-name-zh">劉芊妤</p>
