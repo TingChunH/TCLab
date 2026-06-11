@@ -17,4 +17,11 @@ TC Lab 的實驗室活動、研究討論、學生生活與學術活動紀錄。
     </div>
   </div>
 
+  <div class="gallery-card">
+    <img src="{{ '/assets/images/gallery/2026-06-10-lab-dinner.jpg' | relative_url }}" alt="2026/06/10 期末實驗室聚餐" class="gallery-photo">
+    <div class="gallery-info">
+      <h3>2026/06/10 期末實驗室聚餐</h3>
+    </div>
+  </div>
+
 </div>

@@ -17,6 +17,13 @@ Moments from TC Lab activities, research discussions, student life, and academic
     </div>
   </div>
 
+  <div class="gallery-card">
+    <img src="{{ '/assets/images/gallery/2026-06-10-lab-dinner.jpg' | relative_url }}" alt="June 10, 2026 end-of-semester TC Lab dinner" class="gallery-photo">
+    <div class="gallery-info">
+      <h3>June 10, 2026 End-of-Semester Lab Dinner</h3>
+    </div>
+  </div>
+
 </div>
 
 <!--
