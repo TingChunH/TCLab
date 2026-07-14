@@ -6,13 +6,15 @@ permalink: /pi/
 
 # Principal Investigator
 
-<img src="../assets/images/pi/ting-chun-huang.jpg" alt="Ting-Chun Huang" class="pi-photo">
+<img src="{{ '/assets/images/pi/ting-chun-huang.jpg' | relative_url }}" alt="Ting-Chun Huang" class="pi-photo">
 
 ## Ting-Chun Huang (黃鼎鈞), Ph.D.
 
+**Assistant Professor**
+
 ### Affiliation
 
-- Master Program in Nano-Electronic Engineering and Design (NEED), Department of Electronic Engineering, Chang Gung University, Taoyuan, Taiwan
+- Global Undergraduate Program in Semiconductors (GUPS), National Taiwan University
 - Center for the Advancement of Science Education, National Taiwan University, Taipei, Taiwan
 
 ### Education
@@ -21,6 +23,8 @@ permalink: /pi/
 
 ### Experience
 
+- Assistant Professor, Master Program in Nano-Electronic Engineering and Design (NEED), Chang Gung University, Taoyuan, Taiwan
+- Assistant Professor, Department of Electronic Engineering, Chang Gung University, Taoyuan, Taiwan
 - Postdoctoral Researcher, Institute of Atomic and Molecular Sciences, Academia Sinica, Taipei, Taiwan
 - Postdoctoral Researcher, National Taiwan University, Taipei, Taiwan
 - Visiting Scholar, Sungkyunkwan University, Seoul, South Korea
@@ -29,11 +33,11 @@ permalink: /pi/
 ### Selected Awards and Honors
 
 - 2025 Session Chair, 2D Magnetic Films, APS Global Physics Summit
-- 2025 First Prize, 雄善文學獎
+- 2025 First Prize, Xiong Shan Literary Award
 - 2024 College of Science Dean's Award, National Taiwan University (Top 10% of Ph.D. graduates)
 - 2022 Nanya Technology Silver Award (Second place among Ph.D. students in the semiconductor field)
 
 ### Professional Links
 
 - Google Scholar: <https://reurl.cc/dp5v42>
-- LinkedIn:  <https://www.linkedin.com/in/tingchunhuang>
+- LinkedIn: <https://www.linkedin.com/in/tingchunhuang>
