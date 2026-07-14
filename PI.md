@@ -10,11 +10,9 @@ permalink: /pi/
 
 ## Ting-Chun Huang (黃鼎鈞), Ph.D.
 
-**Assistant Professor**
-
 ### Affiliation
 
-- Global Undergraduate Program in Semiconductors (GUPS), National Taiwan University
+- Assistant Professor, Global Undergraduate Program in Semiconductors (GUPS), National Taiwan University, Taipei, Taiwan
 - Center for the Advancement of Science Education, National Taiwan University, Taipei, Taiwan
 
 ### Education
