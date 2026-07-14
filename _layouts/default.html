@@ -57,7 +57,7 @@
 
       <nav class="site-nav">
         <a href="{{ home_url | relative_url }}" class="{% if page.url == home_url %}active{% endif %}">{% if is_zh %}首頁{% else %}Home{% endif %}</a>
-        <a href="{{ pi_url | relative_url }}" class="{% if page.url == pi_url %}active{% endif %}">PI</a>
+        <a href="{{ pi_url | relative_url }}" class="{% if page.url == pi_url %}active{% endif %}">{% if is_zh %}主持人{% else %}PI{% endif %}</a>
         <a href="{{ research_url | relative_url }}" class="{% if page.url == research_url %}active{% endif %}">{% if is_zh %}研究方向{% else %}Research{% endif %}</a>
         <a href="{{ members_url | relative_url }}" class="{% if page.url == members_url %}active{% endif %}">{% if is_zh %}成員{% else %}Members{% endif %}</a>
         <a href="{{ gallery_url | relative_url }}" class="{% if page.url == gallery_url %}active{% endif %}">{% if is_zh %}相簿{% else %}Gallery{% endif %}</a>

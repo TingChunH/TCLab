@@ -22,7 +22,7 @@ permalink: /pi/
 ### Experience
 
 - Assistant Professor, Master Program in Nano-Electronic Engineering and Design (NEED), Chang Gung University, Taoyuan, Taiwan
-- Assistant Professor, Department of Electronic Engineering, Chang Gung University, Taoyuan, Taiwan
+- Adjunct Assistant Professor, Department of Electronic Engineering, Chang Gung University, Taoyuan, Taiwan
 - Postdoctoral Researcher, Institute of Atomic and Molecular Sciences, Academia Sinica, Taipei, Taiwan
 - Postdoctoral Researcher, National Taiwan University, Taipei, Taiwan
 - Visiting Scholar, Sungkyunkwan University, Seoul, South Korea
