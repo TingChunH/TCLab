@@ -32,8 +32,8 @@ permalink: /zh/join-us/
 
 如果你有興趣加入實驗室，請將以下資料寄至：
 
-**Email:**
-[tchuang@cgu.edu.tw](mailto:tchuang@cgu.edu.tw?subject=TC%20Lab%20Application)
+**Email:**  
+[tingchunh@ntu.edu.tw](mailto:tingchunh@ntu.edu.tw?subject=TC%20Lab%20Application)
 
 ### 申請資料
 
