@@ -23,4 +23,5 @@ permalink: /
 <div class="section news">
   <h2>Latest News</h2>
   <p>2026 — TC Lab established at Chang Gung University</p>
+  <p>Aug. 2026 — TC Lab relocated to National Taiwan University, launching a joint research team between NTU and CGU.</p>
 </div>
