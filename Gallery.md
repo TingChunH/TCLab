@@ -24,8 +24,8 @@ Moments from TC Lab activities, research discussions, student life, and academic
     </div>
   </div>
 
-  <div class="gallery-card">
-    <video class="gallery-video" controls playsinline preload="metadata" poster="{{ '/assets/images/gallery/2026-10-spring-8-video-poster.jpg' | relative_url }}" aria-label="TC Lab experiments at SPring-8 in Japan">
+  <div class="gallery-card gallery-card-video">
+    <video class="gallery-video" width="1280" height="720" controls playsinline preload="metadata" poster="{{ '/assets/images/gallery/2026-10-spring-8-video-poster.jpg' | relative_url }}" aria-label="TC Lab experiments at SPring-8 in Japan">
       <source src="{{ '/assets/videos/gallery/2026-10-spring-8-experiments.mp4' | relative_url }}" type="video/mp4">
       <a href="{{ '/assets/videos/gallery/2026-10-spring-8-experiments.mp4' | relative_url }}">Download the SPring-8 experiment video</a>
     </video>

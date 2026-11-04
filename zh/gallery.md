@@ -24,8 +24,8 @@ TC Lab 的實驗室活動、研究討論、學生生活與學術活動紀錄。
     </div>
   </div>
 
-  <div class="gallery-card">
-    <video class="gallery-video" controls playsinline preload="metadata" poster="{{ '/assets/images/gallery/2026-10-spring-8-video-poster.jpg' | relative_url }}" aria-label="TC Lab 於日本 SPring-8 執行實驗影片">
+  <div class="gallery-card gallery-card-video">
+    <video class="gallery-video" width="1280" height="720" controls playsinline preload="metadata" poster="{{ '/assets/images/gallery/2026-10-spring-8-video-poster.jpg' | relative_url }}" aria-label="TC Lab 於日本 SPring-8 執行實驗影片">
       <source src="{{ '/assets/videos/gallery/2026-10-spring-8-experiments.mp4' | relative_url }}" type="video/mp4">
       <a href="{{ '/assets/videos/gallery/2026-10-spring-8-experiments.mp4' | relative_url }}">下載 SPring-8 實驗影片</a>
     </video>
