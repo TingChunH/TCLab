@@ -440,6 +440,14 @@ a {
   object-fit: cover;
 }
 
+.gallery-video {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: contain;
+  background: #000;
+}
+
 .gallery-placeholder {
   display: flex;
   align-items: center;

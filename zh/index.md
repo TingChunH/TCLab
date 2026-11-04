@@ -33,18 +33,26 @@ permalink: /zh/
   </div>
 
   <div class="panel">
-  <h2>最新消息</h2>
-  <ul class="news-list">
-    <li class="news-item">
-      <span class="news-year">2026</span>
-      TC Lab 於長庚大學成立
-    </li>
-    <li class="news-item">
-      <span class="news-year">2026.8</span>
-      TC Lab 遷至國立臺灣大學，成立臺大與長庚大學跨校聯合研究團隊。
-    </li>
-  </ul>
-</div>
+    <h2>最新消息</h2>
+    <ul class="news-list">
+      <li class="news-item">
+        <span class="news-year">2026/10/28</span>
+        TC Lab 於日本 SPring-8 執行實驗。
+      </li>
+      <li class="news-item">
+        <span class="news-year">2026/10/22</span>
+        恭喜徐承楷獲得教育部博士生獎學金！
+      </li>
+      <li class="news-item">
+        <span class="news-year">2026.8</span>
+        TC Lab 遷至國立臺灣大學，成立臺大與長庚大學跨校聯合研究團隊。
+      </li>
+      <li class="news-item">
+        <span class="news-year">2026</span>
+        TC Lab 於長庚大學成立
+      </li>
+    </ul>
+  </div>
 </section>
 
 <section class="visitor-panel-small">
