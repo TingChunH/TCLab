@@ -2,15 +2,16 @@
   <ellipse cx="139" cy="186" rx="122" ry="23" fill="#55778d" opacity=".12"/>
   <path d="m12 141 116-61 138 70-118 61Z" fill="#d8e7f2" stroke="#7898b1"/>
   <path d="m12 141 136 70 118-61v10l-118 60-136-69Z" fill="#97b5cc"/>
-  <path d="m49 132 34-18 32 17-34 18Z" fill="#809db5"/>
-  <path d="m159 134 34-18 32 17-34 18Z" fill="#809db5"/>
-  <path d="m54 83 26-14 28 15-26 15Z" fill="#f2b5a8" stroke="#a45f55" stroke-width="2" stroke-linejoin="round"/>
-  <path d="m54 83 28 16v40l-28-16Z" fill="#cc7d6f" stroke="#a45f55" stroke-width="2" stroke-linejoin="round"/>
-  <path d="m82 99 26-15v40l-26 15Z" fill="#e49a89" stroke="#a45f55" stroke-width="2" stroke-linejoin="round"/>
-  <path d="m164 84 26-14 28 15-26 15Z" fill="#a5ccec" stroke="#47799f" stroke-width="2" stroke-linejoin="round"/>
-  <path d="m164 84 28 16v40l-28-16Z" fill="#77a8cf" stroke="#47799f" stroke-width="2" stroke-linejoin="round"/>
-  <path d="m192 100 26-15v40l-26 15Z" fill="#578bb7" stroke="#47799f" stroke-width="2" stroke-linejoin="round"/>
-  <path d="M109 110h13m22 0h19" stroke="#64b7e2" stroke-width="2" stroke-dasharray="3 3"/>
+  <!-- Matching cube axes; the opposing pole faces are parallel across the sample. -->
+  <path d="m49 114 34-18 32 17-34 18Z" fill="#809db5"/>
+  <path d="m153 166 34-18 32 17-34 18Z" fill="#809db5"/>
+  <path d="m54 65 26-14 28 15-26 15Z" fill="#f2b5a8" stroke="#a45f55" stroke-width="2" stroke-linejoin="round"/>
+  <path d="m54 65 28 16v40l-28-16Z" fill="#cc7d6f" stroke="#a45f55" stroke-width="2" stroke-linejoin="round"/>
+  <path d="m82 81 26-15v40l-26 15Z" fill="#e49a89" stroke="#a45f55" stroke-width="2" stroke-linejoin="round"/>
+  <path d="m158 118 26-14 28 15-26 15Z" fill="#a5ccec" stroke="#47799f" stroke-width="2" stroke-linejoin="round"/>
+  <path d="m158 118 28 16v40l-28-16Z" fill="#77a8cf" stroke="#47799f" stroke-width="2" stroke-linejoin="round"/>
+  <path d="m186 134 26-15v40l-26 15Z" fill="#578bb7" stroke="#47799f" stroke-width="2" stroke-linejoin="round"/>
+  <path d="m108 100 15 7.5m20 10 15 7.5" stroke="#64b7e2" stroke-width="2" stroke-dasharray="3 3"/>
   <path d="m119 158 14-7 14 7-14 8Z" fill="#8aaabd" stroke="#5c839e"/>
   <path d="M123 151V72c0-7 20-7 20 0v79c0 8-20 8-20 0Z" fill="#b6cfde" stroke="#5c839e" stroke-width="2"/>
   <path d="M128 81v61" stroke="#e8f6fc" stroke-width="3"/>
@@ -19,12 +20,14 @@
   <path d="M129 68V53h8v15" fill="#a2bfce" stroke="#5c839e"/>
   <path d="M133 53V37l16-8" stroke="#618ba6" stroke-width="3"/>
   <path d="M126 101h14m-14 22h14" stroke="#749bb0" stroke-width="2"/>
-  <ellipse cx="134" cy="112" rx="4" ry="6" fill="#2f607e" stroke="#7eacc4" stroke-width="2"/>
+  <ellipse cx="133" cy="112" rx="7" ry="10" fill="#2f607e" stroke="#7eacc4" stroke-width="2"/>
+  <path d="m127 112 6-3 6 3-6 3Z" fill="#f1ce83"/>
+  <path d="M133 115v5" stroke="#b4d5e5" stroke-width="2"/>
   <path d="m25 111 23 11V61L25 50Z" fill="#284960" stroke="#7c9db2" stroke-width="2"/>
   <path d="m29 92 4-9 4 5 6-16" stroke="#70d8ef" stroke-width="2"/>
   <path d="M36 117v15l63 32 21-12" stroke="#375f79" stroke-width="2"/>
   <text x="19" y="40" font-family="Arial,sans-serif" font-size="9" fill="#375f79" font-weight="bold">I-V</text>
-  <text x="90" y="119" font-family="Arial,sans-serif" font-size="12" fill="#70362f" font-weight="bold">N</text>
-  <text x="172" y="112" font-family="Arial,sans-serif" font-size="12" fill="#254e73" font-weight="bold">S</text>
+  <text x="74" y="70" font-family="Arial,sans-serif" font-size="12" fill="#70362f" font-weight="bold">N</text>
+  <text x="179" y="123" font-family="Arial,sans-serif" font-size="12" fill="#254e73" font-weight="bold">S</text>
   <path d="M148 41h24v20h-14" stroke="#74cae3" stroke-width="2"/>
 </svg>
