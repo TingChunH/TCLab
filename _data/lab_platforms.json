@@ -60,14 +60,14 @@
       "en": {
         "title": "Variable-Temperature Optical Measurement",
         "shortLabel": "Optical measurement",
-        "description": "Optical and optoelectronic characterization using spectroscopy under variable-temperature conditions.",
+        "description": "Photoluminescence (PL) with violet, green, and red excitation; Raman spectroscopy with green excitation; cathodoluminescence (CL); and photocurrent measurements.",
         "groupLeader": "To be assigned",
         "teamMembers": ["To be assigned"]
       },
       "zh": {
         "title": "變溫光學量測平台",
         "shortLabel": "變溫光學量測",
-        "description": "利用變溫光譜技術，進行光學與光電特性分析。",
+        "description": "提供紫光、綠光與紅光激發的光激發螢光（PL）、綠光激發拉曼（Raman）光譜、陰極螢光（CL）與光電流量測。",
         "groupLeader": "待指派",
         "teamMembers": ["待指派"]
       }
@@ -82,14 +82,14 @@
       "en": {
         "title": "Variable-Temperature Magnetotransport",
         "shortLabel": "Magnetotransport",
-        "description": "Electrical and magnetotransport measurements under controlled temperature and magnetic field conditions.",
+        "description": "Four-point electrical measurements, Hall effect measurements, magnetoresistance, and angle-dependent spin transport.",
         "groupLeader": "To be assigned",
         "teamMembers": ["To be assigned"]
       },
       "zh": {
         "title": "變溫磁傳輸量測平台",
         "shortLabel": "變溫磁傳輸",
-        "description": "在可控溫度與磁場條件下，進行電性與磁傳輸量測。",
+        "description": "提供四點電性量測、霍爾效應、磁阻與多角度自旋傳輸量測。",
         "groupLeader": "待指派",
         "teamMembers": ["待指派"]
       }
