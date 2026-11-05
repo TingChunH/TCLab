@@ -63,8 +63,6 @@
     <p class="lab-info-kicker" data-field="category"></p>
     <h3 id="lab-dialog-title" data-field="title"></h3>
     <p data-field="description"></p>
-    <h4>{{ lab_ui.focus }}</h4>
-    <p data-field="researchFocus"></p>
     <dl class="lab-people">
       <dt>{{ lab_ui.leader }}</dt><dd data-field="groupLeader"></dd>
       <dt>{{ lab_ui.members }}</dt><dd data-field="teamMembers"></dd>
@@ -77,7 +75,6 @@
     {% assign lab_text = platform[lab_lang] %}
     <h3>{{ lab_text.title }}</h3>
     <p>{{ lab_text.description }}</p>
-    <p>{{ lab_text.researchFocus }}</p>
     <p>{{ lab_ui.leader }}: {{ lab_text.groupLeader }}<br>{{ lab_ui.members }}: {{ lab_text.teamMembers | join: ', ' }}</p>
     {% endfor %}
   </details>

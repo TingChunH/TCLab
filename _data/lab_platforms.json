@@ -8,7 +8,6 @@
       "mapLabel": "Interactive map of TC Lab research platforms",
       "interior": "IN-HOUSE PLATFORMS",
       "external": "EXTERNAL FACILITY",
-      "focus": "Research focus",
       "leader": "Group leader",
       "members": "Team members",
       "unassigned": "To be assigned",
@@ -25,7 +24,6 @@
       "mapLabel": "TC Lab 研究平台互動地圖",
       "interior": "實驗室內研究平台",
       "external": "外部研究設施",
-      "focus": "研究重點",
       "leader": "平台負責人",
       "members": "團隊成員",
       "unassigned": "待指派",
@@ -47,7 +45,6 @@
         "title": "Semiconductor Processing",
         "shortLabel": "Semiconductor processing",
         "description": "Fabrication and sample preparation for advanced electronic and low-dimensional materials research.",
-        "researchFocus": "Custom CVD growth, TorrRHEED-assisted in situ observation, sputtering, thermal evaporation, and lithography-based device preparation.",
         "groupLeader": "To be assigned",
         "teamMembers": ["To be assigned"]
       },
@@ -55,7 +52,6 @@
         "title": "半導體製程平台",
         "shortLabel": "半導體製程",
         "description": "針對先進電子與低維材料研究，進行材料製備與樣品前處理。",
-        "researchFocus": "客製化 CVD 成長、TorrRHEED 輔助原位觀測、濺鍍、熱蒸鍍，以及微影元件製作。",
         "groupLeader": "待指派",
         "teamMembers": ["待指派"]
       }
@@ -71,7 +67,6 @@
         "title": "Variable-Temperature Optical Measurement",
         "shortLabel": "Optical measurement",
         "description": "Optical and optoelectronic characterization using spectroscopy under variable-temperature conditions.",
-        "researchFocus": "Optical table-based PL measurement with cryostat stage and spectrometer for temperature-dependent optical analysis.",
         "groupLeader": "To be assigned",
         "teamMembers": ["To be assigned"]
       },
@@ -79,7 +74,6 @@
         "title": "變溫光學量測平台",
         "shortLabel": "變溫光學量測",
         "description": "利用變溫光譜技術，進行光學與光電特性分析。",
-        "researchFocus": "整合光學桌、光激發螢光（PL）量測、低溫樣品台與光譜儀，分析溫度相關的光學特性。",
         "groupLeader": "待指派",
         "teamMembers": ["待指派"]
       }
@@ -95,7 +89,6 @@
         "title": "Variable-Temperature Magnetotransport",
         "shortLabel": "Magnetotransport",
         "description": "Electrical and magnetotransport measurements under controlled temperature and magnetic field conditions.",
-        "researchFocus": "I–V characterization and transport measurements using a cylindrical chamber and dual electromagnets.",
         "groupLeader": "To be assigned",
         "teamMembers": ["To be assigned"]
       },
@@ -103,7 +96,6 @@
         "title": "變溫磁傳輸量測平台",
         "shortLabel": "變溫磁傳輸",
         "description": "在可控溫度與磁場條件下，進行電性與磁傳輸量測。",
-        "researchFocus": "結合圓柱形腔體與雙電磁鐵，進行電流－電壓（I–V）特性與傳輸量測。",
         "groupLeader": "待指派",
         "teamMembers": ["待指派"]
       }
@@ -119,7 +111,6 @@
         "title": "AI-Assisted Optical Measurement",
         "shortLabel": "AI-assisted optics",
         "description": "Interferometric optical measurement integrated with AI-based data analysis and computation.",
-        "researchFocus": "Michelson interferometer experiments combined with AI-assisted image, signal, and pattern analysis.",
         "groupLeader": "To be assigned",
         "teamMembers": ["To be assigned"]
       },
@@ -127,7 +118,6 @@
         "title": "AI 輔助光學量測平台",
         "shortLabel": "AI 輔助光學",
         "description": "整合干涉光學量測與 AI 資料分析及運算。",
-        "researchFocus": "結合 Michelson 干涉儀實驗與 AI 輔助影像、訊號及圖樣分析。",
         "groupLeader": "待指派",
         "teamMembers": ["待指派"]
       }
@@ -143,7 +133,6 @@
         "title": "Synchrotron Measurement Team",
         "shortLabel": "Synchrotron team",
         "description": "Long-term use of synchrotron radiation facilities for advanced materials characterization.",
-        "researchFocus": "External synchrotron-based measurements and long-term beamline access for high-level material analysis.",
         "groupLeader": "To be assigned",
         "teamMembers": ["To be assigned"]
       },
@@ -151,7 +140,6 @@
         "title": "同步輻射量測團隊",
         "shortLabel": "同步輻射團隊",
         "description": "長期使用外部同步輻射設施，進行先進材料特性分析。",
-        "researchFocus": "運用外部同步輻射量測與長期光束線研究資源，進行進階材料分析。",
         "groupLeader": "待指派",
         "teamMembers": ["待指派"]
       }

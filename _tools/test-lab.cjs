@@ -11,7 +11,7 @@ const { chromium } = dependency("playwright");
   for (const platform of config.platforms) {
     await fs.access(path.join(__dirname, "..", platform.asset));
     for (const lang of ["en", "zh"]) {
-      for (const field of ["title", "shortLabel", "description", "researchFocus", "groupLeader"]) assert.ok(platform[lang][field]);
+      for (const field of ["title", "shortLabel", "description", "groupLeader"]) assert.ok(platform[lang][field]);
       assert.ok(Array.isArray(platform[lang].teamMembers));
     }
   }
@@ -53,7 +53,8 @@ const { chromium } = dependency("playwright");
           await buttons.nth(index).press("Enter");
           assert.equal(await page.locator("dialog").evaluate((d) => d.open), true);
           assert.equal(await page.locator("#lab-dialog-title").innerText(), platform[lang].title);
-          assert.ok((await page.locator("dialog [data-field=researchFocus]").innerText()).length > 0);
+          assert.equal(await page.locator("dialog h4").count(), 0);
+          assert.equal(await page.locator("dialog [data-field=description]").innerText(), platform[lang].description);
           await page.keyboard.press("Escape");
           assert.equal(await buttons.nth(index).evaluate((b) => b === document.activeElement), true);
         }

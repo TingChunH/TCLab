@@ -27,7 +27,7 @@ both languages together. Personnel are deliberately placeholders, not real names
 ```
 
 The same values appear in the contextual panel, expanded dialog and no-JavaScript
-fallback. `researchFocus` appears in the expanded dialog and fallback. Use valid
+fallback. Use valid
 JSON: double quotes, no comments, no trailing commas. Content is rendered as text,
 not HTML. An optional `link` field in either language can contain a complete
 `https://...` related-project or publication URL; omit it to hide the link.
