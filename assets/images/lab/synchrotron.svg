@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 220" fill="none">
+  <ellipse cx="142" cy="177" rx="129" ry="28" fill="#55778d" opacity=".12"/>
+  <path d="m5 150 124-64 147 72-128 59Z" fill="#dce9ee" stroke="#97b3bf"/>
+  <path d="m5 150 143 67 128-59v-8l-128 58L5 142Z" fill="#b9ced5"/>
+  <path d="M29 119v27c0 49 209 49 209 0v-27" fill="#b5c8d3" stroke="#7b99ae" stroke-width="2"/>
+  <ellipse cx="133.5" cy="119" rx="104.5" ry="46" fill="#e8f0f5" stroke="#7b99ae" stroke-width="2"/>
+  <ellipse cx="133.5" cy="119" rx="65" ry="28" fill="#a3bbc8" stroke="#7b99ae" stroke-width="2"/>
+  <ellipse cx="133.5" cy="118" rx="80" ry="35" stroke="#cf8b4a" stroke-width="7"/>
+  <ellipse cx="133.5" cy="118" rx="80" ry="35" stroke="#ffdf95" stroke-width="2" stroke-dasharray="15 7"/>
+  <path d="M73 110v18c0 36 122 36 122 0v-18" fill="#d4e3eb"/>
+  <ellipse cx="134" cy="110" rx="61" ry="25" fill="#f0f7fa" stroke="#8eabbc"/>
+  <path d="m105 106 29-14 31 15-30 15Z" fill="#b2d3de" stroke="#7b99ae"/>
+  <path d="M105 106v18l30 15 30-15v-17l-30 15Z" fill="#96b6c6" stroke="#7b99ae"/>
+  <path d="m44 112 23 12m-13-28 23 12m120 28 33 16m-17-50 24-12m-53-9 10-15M97 80l-9-20" stroke="#748fa1" stroke-width="7"/>
+  <path d="m44 112 23 12m130 12 33 16m-17-50 24-12" stroke="#f7c476" stroke-width="3"/>
+  <path d="m222 152 29-15 23 12v22l-29 15-23-12Z" fill="#b5cedb" stroke="#6d8fa5"/>
+  <path d="m222 152 23 12 29-15m-29 15v22" stroke="#6d8fa5"/>
+  <path d="m230 156 10 5v9l-10-5Z" fill="#2d5265"/>
+  <path d="m45 144 0 17m12-12v17m12-13v17m128-12v17m12-21v17m12-22v17" stroke="#789aae" stroke-width="2"/>
+  <text x="95" y="53" font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="#765537">SYNCHROTRON</text>
+  <path d="M99 61h74" stroke="#b57f47" stroke-width="2"/>
+</svg>

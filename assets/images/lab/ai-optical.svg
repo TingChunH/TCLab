@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 220" fill="none">
+  <ellipse cx="141" cy="182" rx="123" ry="25" fill="#55778d" opacity=".12"/>
+  <path d="m15 132 96-49 91 47-95 50Z" fill="#d1e3eb" stroke="#6b94a5"/>
+  <path d="m15 132 92 48 95-50v10l-95 51-92-48Z" fill="#8dabbc"/>
+  <path d="M29 149v35m76 4v23m80-59v33" stroke="#6d8d9e" stroke-width="7"/>
+  <path d="m32 127 24-12 23 12-24 13Z" fill="#598a80" stroke="#397363"/>
+  <path d="m32 127v-13l24-12 23 12v13l-24 13Z" fill="#add4c8" stroke="#598a80"/>
+  <path d="m78 124 34 17 32-17m-32 17V95" stroke="#2dba9e" stroke-width="3"/>
+  <path d="m111 141 0-46m0 46 32-17" stroke="#8cddc7" stroke-width="7" opacity=".3"/>
+  <path d="m105 137 13-7v19l-13 7Z" fill="#d5f5ed" stroke="#5b9589" stroke-width="2"/>
+  <path d="m137 110 11 5v21l-11-5Z" fill="#e7f8f7" stroke="#5b9589" stroke-width="3"/>
+  <path d="m98 94 23-12v19l-23 12Z" fill="#edf9f8" stroke="#5b9589" stroke-width="3"/>
+  <path d="m94 157 16-8 16 8-16 9Z" fill="#274c53"/>
+  <path d="m110 149 2-8" stroke="#2dba9e" stroke-width="3"/>
+  <path d="m156 126 54-29 56 28-55 29Z" fill="#e3f0f3" stroke="#6d92a3"/>
+  <path d="M161 128v49m95-48v48m-45-22v47" stroke="#6d92a3" stroke-width="7"/>
+  <path d="m170 110 34 17V69l-34-17Z" fill="#204555" stroke="#6d92a3" stroke-width="3"/>
+  <path d="m213 126 38-20V48l-38 20Z" fill="#204555" stroke="#6d92a3" stroke-width="3"/>
+  <path d="m175 93 5-9 6 12 6-4 7 7" stroke="#5ce2c0" stroke-width="2"/>
+  <path d="m178 73 20 10m-20-4 12 6" stroke="#73a9af" stroke-width="2"/>
+  <path d="m221 85 9-16 12 3-6 25-15-12 21-13m-12-3 6 28" stroke="#67c8e7" stroke-width="1.5"/>
+  <g fill="#88edd5"><circle cx="221" cy="85" r="3"/><circle cx="230" cy="69" r="3"/><circle cx="242" cy="72" r="3"/><circle cx="236" cy="97" r="3"/></g>
+  <path d="m177 132 25 12 17-9-25-13Z" fill="#86a8b4"/>
+  <path d="m199 176 29-15v-27l-29 15Z" fill="#91b5c0" stroke="#638793"/>
+  <path d="m205 155 17-9m-17 15 17-9" stroke="#487480" stroke-width="2"/>
+  <circle cx="221" cy="158" r="2" fill="#59d9b4"/>
+  <text x="29" y="90" font-family="Arial,sans-serif" font-size="8" fill="#3f766c">MICHELSON</text>
+  <text x="216" y="43" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#3f766c">AI</text>
+</svg>

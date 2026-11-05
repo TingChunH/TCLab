@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 220" fill="none">
+  <defs>
+    <linearGradient id="steel" x2="1" y2=".8"><stop stop-color="#f4fbff"/><stop offset="1" stop-color="#91afc0"/></linearGradient>
+    <symbol id="cabinet" viewBox="0 0 55 72">
+      <path d="M2 18 28 4 53 18 27 32Z" fill="#e7f2f7"/>
+      <path d="M2 18 27 32V70L2 56Z" fill="#9cb6c8"/>
+      <path d="M27 32 53 18V56L27 70Z" fill="#c5d8e5"/>
+      <path d="m31 39 17-9v15l-17 9Z" fill="#173a50"/>
+      <path d="m34 41 11-6m-11 10 7-3" stroke="#4ce1ee" stroke-width="2"/>
+      <path d="m7 30 14 8m-14-1 14 8m-14-1 14 8" stroke="#698ba4"/>
+      <circle cx="45" cy="51" r="2" fill="#24b6b6"/>
+    </symbol>
+  </defs>
+  <ellipse cx="140" cy="183" rx="128" ry="27" fill="#55778d" opacity=".12"/>
+  <path d="m8 130 123-66 140 70-122 66Z" fill="#d1e5ef" stroke="#8aabbf"/>
+  <path d="m8 130 141 70 122-66v11l-122 66L8 141Z" fill="#99b6c9"/>
+  <use href="#cabinet" x="168" y="66" width="55" height="72"/>
+  <use href="#cabinet" x="211" y="88" width="55" height="72"/>
+  <path d="M180 78V57c0-12 27-12 27 0v21" fill="url(#steel)" stroke="#6c90a5"/>
+  <ellipse cx="193.5" cy="56" rx="13.5" ry="6" fill="#d9eef7" stroke="#6c90a5"/>
+  <path d="M224 100V80c0-12 27-12 27 0v20" fill="url(#steel)" stroke="#6c90a5"/>
+  <ellipse cx="237.5" cy="80" rx="13.5" ry="6" fill="#e5f4f9" stroke="#6c90a5"/>
+  <text x="175" y="48" font-family="Arial,sans-serif" font-size="8" fill="#375b73">SPUTTER</text>
+  <text x="226" y="69" font-family="Arial,sans-serif" font-size="8" fill="#375b73">EVAP</text>
+  <path d="m44 136 46-24 48 24-46 25Z" fill="#688ba5"/>
+  <path d="m44 136 48 25v21l-48-25Zm48 25 46-25v21l-46 25Z" fill="#a2bfd1" stroke="#7294ab"/>
+  <path d="M63 130V78c0-17 57-17 57 0v52c0 17-57 17-57 0Z" fill="url(#steel)" stroke="#5c8399" stroke-width="2"/>
+  <ellipse cx="91.5" cy="78" rx="28.5" ry="12" fill="#d9edf6" stroke="#5c8399" stroke-width="2"/>
+  <ellipse cx="91.5" cy="78" rx="18" ry="7" fill="#193b50" stroke="#79dce7" stroke-width="3"/>
+  <path d="M76 72V53l15-8 14 8v19" fill="#b4cedc" stroke="#5c8399"/>
+  <ellipse cx="91" cy="52" rx="14" ry="6" fill="#f2fbff" stroke="#5c8399"/>
+  <ellipse cx="91" cy="113" rx="10" ry="13" fill="#153a51" stroke="#7298ad" stroke-width="4"/>
+  <ellipse cx="91" cy="113" rx="5" ry="7" fill="#3ed4de"/>
+  <path d="m117 105 26-13 7 12-27 14Z" fill="#91aebf" stroke="#4f758e" stroke-width="2"/>
+  <ellipse cx="148" cy="99" rx="7" ry="11" transform="rotate(-25 148 99)" fill="#c4e2ed" stroke="#4f758e" stroke-width="2"/>
+  <path d="m151 98 16-8m-15 14 18-8" stroke="#64e2ed" stroke-width="2"/>
+  <path d="M69 80 52 72V55M111 80l13-8V59" stroke="#648a9d" stroke-width="4"/>
+  <text x="72" y="153" font-family="Arial,sans-serif" font-size="9" font-weight="bold" fill="#244f65">CVD</text>
+  <text x="123" y="81" font-family="Arial,sans-serif" font-size="8" fill="#375b73">TorrRHEED</text>
+  <path d="m157 155 35-18 34 17-35 19Z" fill="#edf6fb" stroke="#658ba4"/>
+  <path d="M157 155v19l34 17v-18m0 18 35-19v-18" stroke="#658ba4" stroke-width="4"/>
+  <path d="m171 153 20-10 20 10-20 11Z" fill="#40627a"/>
+  <path d="M179 149v-24l12-6 13 7v23" fill="#b8cfde" stroke="#658ba4"/>
+  <path d="m183 145 8-4 8 4-8 4Z" fill="#9b78dd"/>
+  <text x="173" y="204" font-family="Arial,sans-serif" font-size="8" fill="#375b73">LITHOGRAPHY</text>
+</svg>

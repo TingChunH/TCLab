@@ -2,6 +2,7 @@
 layout: default
 title: Home
 permalink: /
+lab_explorer: true
 ---
 
 <section class="hero-card">
@@ -54,6 +55,8 @@ permalink: /
     </ul>
   </div>
 </section>
+
+{% include lab-explorer.html lang="en" %}
 
 <!-- 🔽 Global Reach -->
 <section class="visitor-panel-small">

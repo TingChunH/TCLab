@@ -2,6 +2,7 @@
 layout: default
 title: 首頁
 permalink: /zh/
+lab_explorer: true
 ---
 
 <section class="hero-card">
@@ -54,6 +55,8 @@ permalink: /zh/
     </ul>
   </div>
 </section>
+
+{% include lab-explorer.html lang="zh" %}
 
 <section class="visitor-panel-small">
   <h3>全球瀏覽足跡</h3>
