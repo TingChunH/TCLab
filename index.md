@@ -29,7 +29,7 @@ lab_explorer: true
   <div class="panel">
     <h2>Lab Introduction</h2>
     <p>
-      Our lab develops advanced engineering strategies and explores emerging materials to create next-generation electronic and spintronic devices. We investigate electronic and spin phenomena in low-dimensional systems, where interfaces, quantum effects, and material design open new opportunities for device functionality. By bridging fundamental physics with practical engineering, we aim to transform scientific discoveries into technologies for future computing.
+      Our lab explores the optical, electrical, magnetic, and thermal properties of low-dimensional systems. We investigate interface physics and band alignment, charge and spin transport, light–matter interactions, and temperature-dependent device behavior to open new opportunities for device functionality. By bridging fundamental physics with practical engineering, we aim to transform scientific discoveries into technologies for future computing.
     </p>
   </div>
 
