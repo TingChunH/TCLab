@@ -9,10 +9,7 @@
     const buttons = Array.from(root.querySelectorAll("[data-platform]"));
     const indexButtons = Array.from(root.querySelectorAll("[data-select-platform]"));
     const panel = root.querySelector(".lab-info");
-    const dialog = root.querySelector("dialog");
-    let selectedId = config.platforms[0].id;
     let displayedId;
-    let returnFocus;
 
     function fill(container, id) {
       const platform = platforms.get(id);
@@ -25,14 +22,6 @@
           : data[field];
         element.textContent = Array.isArray(value) ? value.join(lang === "zh" ? "、" : ", ") : value || ui.unassigned;
       });
-      const link = container.querySelector("[data-related-link]");
-      if (link) {
-        const url = data.link ? new URL(data.link, document.baseURI) : null;
-        const safe = url && ["https:", "http:"].includes(url.protocol);
-        link.hidden = !safe;
-        if (safe) link.href = url.href;
-        else link.removeAttribute("href");
-      }
     }
 
     function preview(id) {
@@ -43,17 +32,9 @@
     }
 
     function select(id) {
-      selectedId = id;
       buttons.forEach((button) => button.setAttribute("aria-pressed", String(button.dataset.platform === id)));
       indexButtons.forEach((button) => button.setAttribute("aria-pressed", String(button.dataset.selectPlatform === id)));
       preview(id);
-    }
-
-    function openDetails(id, trigger) {
-      select(id);
-      fill(dialog, id);
-      returnFocus = trigger;
-      dialog.showModal();
     }
 
     buttons.forEach((button, index) => {
@@ -61,7 +42,7 @@
         if (event.pointerType !== "touch") preview(button.dataset.platform);
       });
       button.addEventListener("focus", () => preview(button.dataset.platform));
-      button.addEventListener("click", () => openDetails(button.dataset.platform, button));
+      button.addEventListener("click", () => select(button.dataset.platform));
       button.addEventListener("keydown", (event) => {
         const offset = { ArrowRight: 1, ArrowDown: 1, ArrowLeft: -1, ArrowUp: -1 }[event.key];
         if (!offset) return;
@@ -78,19 +59,7 @@
         scroll.scrollLeft = target.offsetLeft - (scroll.clientWidth - target.offsetWidth) / 2;
       });
     });
-    root.querySelector("[data-open-details]").addEventListener("click", (event) => openDetails(displayedId, event.currentTarget));
-    root.querySelector("[data-close-details]").addEventListener("click", () => dialog.close());
-    dialog.addEventListener("click", (event) => {
-      if (event.target !== dialog) return;
-      const bounds = dialog.getBoundingClientRect();
-      if (event.clientX < bounds.left || event.clientX > bounds.right || event.clientY < bounds.top || event.clientY > bounds.bottom) dialog.close();
-    });
-    dialog.addEventListener("close", () => {
-      if (document.activeElement === document.body || dialog.contains(document.activeElement)) {
-        returnFocus?.focus({ preventScroll: true });
-      }
-    });
-    select(selectedId);
+    select(config.platforms[0].id);
     panel.hidden = false;
     root.classList.add("is-ready");
   });

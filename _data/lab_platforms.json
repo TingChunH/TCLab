@@ -11,10 +11,7 @@
       "leader": "Group leader",
       "members": "Team members",
       "unassigned": "To be assigned",
-      "details": "Platform details",
-      "close": "Close",
-      "related": "Related research",
-      "fallback": "Platform details are listed below."
+      "fallback": "Research platforms"
     },
     "zh": {
       "title": "走進實驗室",
@@ -27,10 +24,7 @@
       "leader": "平台負責人",
       "members": "團隊成員",
       "unassigned": "待指派",
-      "details": "平台詳細資訊",
-      "close": "關閉",
-      "related": "相關研究",
-      "fallback": "各平台詳細資訊列於下方。"
+      "fallback": "研究平台"
     }
   },
   "platforms": [

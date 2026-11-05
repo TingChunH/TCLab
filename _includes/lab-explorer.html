@@ -33,7 +33,7 @@
         <span class="lab-map-caption lab-map-caption-in">{{ lab_ui.interior }}</span>
         {% for platform in site.data.lab_platforms.platforms %}
         {% assign lab_text = platform[lab_lang] %}
-        <button class="lab-platform" type="button" data-platform="{{ platform.id }}" aria-label="{{ lab_text.title }}" aria-pressed="false" aria-controls="lab-info" aria-haspopup="dialog" style="--zone-x: {{ platform.position.x }}%; --zone-y: {{ platform.position.y }}%; --zone-width: {{ platform.position.width }}%; --zone-accent: {{ platform.accent }};">
+        <button class="lab-platform" type="button" data-platform="{{ platform.id }}" aria-label="{{ lab_text.title }}" aria-pressed="false" aria-controls="lab-info" style="--zone-x: {{ platform.position.x }}%; --zone-y: {{ platform.position.y }}%; --zone-width: {{ platform.position.width }}%; --zone-accent: {{ platform.accent }};">
           <img class="lab-platform-art" src="{{ platform.asset | relative_url }}" width="280" height="220" alt="" draggable="false">
           <span class="lab-platform-label"><span class="lab-number">{{ platform.number }}</span><span>{{ lab_text.shortLabel }}</span></span>
           {% if platform.external %}<span class="lab-external-label">{{ lab_ui.external }}</span>{% endif %}
@@ -55,20 +55,8 @@
         <dt>{{ lab_ui.leader }}</dt><dd data-field="groupLeader"></dd>
         <dt>{{ lab_ui.members }}</dt><dd data-field="teamMembers"></dd>
       </dl>
-      <button class="lab-details-button" type="button" data-open-details>{{ lab_ui.details }} <span aria-hidden="true">&#8599;</span></button>
     </aside>
   </div>
-  <dialog class="lab-dialog" aria-labelledby="lab-dialog-title">
-    <div class="lab-dialog-bar"><span>TC LAB</span><button type="button" data-close-details>{{ lab_ui.close }}</button></div>
-    <p class="lab-info-kicker" data-field="category"></p>
-    <h3 id="lab-dialog-title" data-field="title"></h3>
-    <p data-field="description"></p>
-    <dl class="lab-people">
-      <dt>{{ lab_ui.leader }}</dt><dd data-field="groupLeader"></dd>
-      <dt>{{ lab_ui.members }}</dt><dd data-field="teamMembers"></dd>
-    </dl>
-    <a class="lab-related-link" data-related-link hidden>{{ lab_ui.related }} &#8599;</a>
-  </dialog>
   <details class="lab-static-content">
     <summary>{{ lab_ui.fallback }}</summary>
     {% for platform in site.data.lab_platforms.platforms %}

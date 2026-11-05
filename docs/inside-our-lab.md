@@ -8,9 +8,9 @@ The English and Traditional Chinese homepages include the same component after
 Lab Introduction / Latest News. Only these pages load its CSS and JavaScript.
 
 - `_data/lab_platforms.json`: bilingual content, artwork paths and scene positions.
-- `_includes/lab-explorer.html`: shared map, information panel and native dialog.
+- `_includes/lab-explorer.html`: shared map and contextual information panel.
 - `assets/css/lab-explorer.css`: scoped layout, highlighting and reduced motion.
-- `assets/js/lab-explorer.js`: hover, focus, click/tap, keyboard and dialog behavior.
+- `assets/js/lab-explorer.js`: hover, focus, click/tap and keyboard behavior.
 - `assets/images/lab/*.svg`: five independently replaceable prototype illustrations.
 - `index.md`, `zh/index.md`: integration; `lab_explorer: true` enables assets.
 - `_layouts/default.html`: conditional stylesheet and deferred script loading.
@@ -26,11 +26,10 @@ both languages together. Personnel are deliberately placeholders, not real names
 "teamMembers": ["First member", "Second member"]
 ```
 
-The same values appear in the contextual panel, expanded dialog and no-JavaScript
+The same values appear in the contextual panel and no-JavaScript
 fallback. Use valid
 JSON: double quotes, no comments, no trailing commas. Content is rendered as text,
-not HTML. An optional `link` field in either language can contain a complete
-`https://...` related-project or publication URL; omit it to hide the link.
+not HTML.
 Do not insert literal HTML/script tags into the data file.
 
 ## Replace Artwork
@@ -82,7 +81,7 @@ npm --prefix _tools test
 
 Alternatively set `$env:TCLAB_BROWSER_CHANNEL = 'msedge'` to test with installed
 Microsoft Edge. Tests cover both languages at 1440, 1280, 768, 390 and 320 pixels,
-artwork loading, all five dialogs, keyboard focus restoration, arrow navigation,
+artwork loading, all five platform selections, keyboard focus, arrow navigation,
 touch, no-JavaScript fallback and page overflow. Screenshots go to the temporary
 `tclab-lab-screenshots` directory. Mobile map scrolling is intentional and stays
 inside the section; there should be no horizontal page overflow.
@@ -93,12 +92,12 @@ separated by the OS path delimiter when using an existing local test runtime.
 ## Interaction Notes
 
 - Hover/focus previews a platform with a 12% artwork enlargement, without layout shifts.
-- Click, Enter, Space or mobile tap selects a platform and opens its detailed dialog.
-- Arrow keys move between scene platforms. Escape and Close dismiss the dialog.
+- Click, Enter, Space or mobile tap selects a platform in the existing information panel.
+- Arrow keys move between scene platforms. There are no duplicate detail dialogs.
 - Mobile platform shortcuts select a platform and scroll its artwork into view.
-- Focus returns to the opening control; native dialog behavior traps modal focus.
+- Focus stays on the selected control; no popup interrupts navigation.
 - Reduced-motion preferences disable light pulses, moving links and transitions.
 - Without JavaScript, the expandable text listing still exposes all platform data.
 
-This is a functional, art-ready prototype, not a floor plan of actual equipment
-locations. It is isolated on `feature/inside-our-lab` for review before merging.
+This is a functional, art-ready scene, not a floor plan of actual equipment
+locations. The approved section is published from the `main` branch.
