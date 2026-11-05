@@ -41,10 +41,15 @@ const { chromium } = dependency("playwright");
         if (width >= 1280) {
           await buttons.nth(3).scrollIntoViewIfNeeded();
           const before = await page.locator(".lab-map").boundingBox();
-          await buttons.nth(3).hover();
-          assert.equal(await page.locator("#lab-info-title").innerText(), config.platforms[3][lang].title);
-          assert.equal(await buttons.nth(3).getAttribute("class"), "lab-platform is-active");
-          assert.deepEqual(await page.locator(".lab-map").boundingBox(), before);
+          for (let index = 0; index < config.platforms.length; index++) {
+            await buttons.nth(index).hover();
+            assert.equal(await page.locator("#lab-info-title").innerText(), config.platforms[index][lang].title);
+            assert.equal(await page.locator("#lab-info [data-field=description]").innerText(), config.platforms[index][lang].description);
+            assert.equal(await buttons.nth(index).getAttribute("class"), "lab-platform is-active");
+            const after = await page.locator(".lab-map").boundingBox();
+            assert.equal(after.width, before.width);
+            assert.equal(after.height, before.height);
+          }
           assert.equal(await page.locator(".lab-connection").evaluate((el) => getComputedStyle(el).animationName), "none");
         }
         for (let index = 0; index < config.platforms.length; index++) {

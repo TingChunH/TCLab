@@ -92,11 +92,13 @@ separated by the OS path delimiter when using an existing local test runtime.
 ## Interaction Notes
 
 - Hover/focus previews a platform with a 12% artwork enlargement, without layout shifts.
+- The existing side panel updates with a brief slide-in; no details button is needed.
 - Click, Enter, Space or mobile tap selects a platform in the existing information panel.
 - Arrow keys move between scene platforms. There are no duplicate detail dialogs.
 - Mobile platform shortcuts select a platform and scroll its artwork into view.
 - Focus stays on the selected control; no popup interrupts navigation.
 - Reduced-motion preferences disable light pulses, moving links and transitions.
+- Lab CSS and JavaScript URLs include the build revision to avoid mixed cached versions.
 - Without JavaScript, the expandable text listing still exposes all platform data.
 
 This is a functional, art-ready scene, not a floor plan of actual equipment

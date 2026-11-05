@@ -9,7 +9,9 @@
     const buttons = Array.from(root.querySelectorAll("[data-platform]"));
     const indexButtons = Array.from(root.querySelectorAll("[data-select-platform]"));
     const panel = root.querySelector(".lab-info");
+    const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
     let displayedId;
+    let panelAnimation;
 
     function fill(container, id) {
       const platform = platforms.get(id);
@@ -29,6 +31,13 @@
       displayedId = id;
       fill(panel, id);
       buttons.forEach((button) => button.classList.toggle("is-active", button.dataset.platform === id));
+      panelAnimation?.cancel();
+      if (!panel.hidden && !reducedMotion.matches) {
+        panelAnimation = panel.animate(
+          [{ opacity: .3, transform: "translateX(12px)" }, { opacity: 1, transform: "translateX(0)" }],
+          { duration: 180, easing: "ease-out" }
+        );
+      }
     }
 
     function select(id) {
