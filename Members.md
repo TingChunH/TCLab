@@ -50,6 +50,14 @@ Our lab brings together students who are interested in semiconductor fabrication
     <p><a href="mailto:D1327102@cgu.edu.tw">D1327102@cgu.edu.tw</a></p>
   </div>
 
+  <div class="member-card">
+    <img src="{{ '/assets/images/members/wei-chih-chen.jpg' | relative_url }}" alt="Wei-Chih Chen" class="member-photo">
+    <h3>Wei-Chih Chen</h3>
+    <p class="member-name-zh">陳韋智</p>
+    <p class="member-role">Master's Student</p>
+    <p><a href="mailto:m1324007@cgu.edu.tw">m1324007@cgu.edu.tw</a></p>
+  </div>
+
 </div>
 
 ---
@@ -123,11 +131,17 @@ Our lab brings together students who are interested in semiconductor fabrication
   </div>
 
   <div class="member-card">
-    <img src="{{ '/assets/images/members/max-yang.jpg' | relative_url }}" alt="Max Yang" class="member-photo">
-    <h3>Max Yang</h3>
-    <p class="member-name-zh">楊禮維</p>
-    <p></p>
-    <p><a href="mailto:090016hkhs@gmail.com">090016hkhs@gmail.com</a></p>
+    <img src="{{ '/assets/images/members/nguyen-the-trung.jpg' | relative_url }}" alt="Nguyen The Trung" class="member-photo">
+    <h3>Nguyen The Trung</h3>
+    <p class="member-name-zh">陳世忠</p>
+    <p><a href="mailto:b15h06031@ntu.edu.tw">b15h06031@ntu.edu.tw</a></p>
+  </div>
+
+  <div class="member-card">
+    <img src="{{ '/assets/images/members/aleck-ni.jpg' | relative_url }}" alt="Aleck Ni" class="member-photo">
+    <h3>Aleck Ni</h3>
+    <p class="member-name-zh">倪咸安</p>
+    <p><a href="mailto:aleckni2003@gmail.com">aleckni2003@gmail.com</a></p>
   </div>
 
 </div>
