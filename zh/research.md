@@ -47,8 +47,8 @@ permalink: /zh/research/
 因此，我們的研究期待可以達到讀取訊號更強、能耗更低，以及溫度升高時維持穩定運作的半導體元件設計。
 
 <figure class="research-figure">
-  <img src="{{ '/assets/images/Schematic-diagram/mos2-fet.png' | relative_url }}" alt="2D TMDCs示意圖" class="research-image" width="1600" height="1000" loading="lazy">
-  <figcaption class="research-caption">2D TMDCs示意圖</figcaption>
+  <img src="{{ '/assets/images/Schematic-diagram/mos2-fet.png' | relative_url }}" alt="2D TMDCs 電子元件示意圖" class="research-image" width="1600" height="1000" loading="lazy">
+  <figcaption class="research-caption">2D TMDCs 電子元件示意圖</figcaption>
 </figure>
 
 ---

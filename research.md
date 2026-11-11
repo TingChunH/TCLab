@@ -47,8 +47,8 @@ As more components are integrated onto a chip, controlling the heat they generat
 We judge these designs by what changes in operation: **stronger readout signals, lower energy consumption, and more stable performance as temperature rises**.
 
 <figure class="research-figure">
-  <img src="{{ '/assets/images/Schematic-diagram/mos2-fet.png' | relative_url }}" alt="Schematic illustration of 2D TMDCs" class="research-image" width="1600" height="1000" loading="lazy">
-  <figcaption class="research-caption">Schematic illustration of 2D TMDCs</figcaption>
+  <img src="{{ '/assets/images/Schematic-diagram/mos2-fet.png' | relative_url }}" alt="Schematic illustration of a 2D TMDC electronic device" class="research-image" width="1600" height="1000" loading="lazy">
+  <figcaption class="research-caption">Schematic illustration of a 2D TMDC electronic device</figcaption>
 </figure>
 
 ---
