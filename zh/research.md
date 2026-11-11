@@ -24,12 +24,10 @@ permalink: /zh/research/
 
 二維材料最強大的特點之一，是它們可以像 **Lego 積木** 一樣被組裝。透過堆疊不同原子層，研究者能建立 **van der Waals heterostructures**，讓每一層材料貢獻不同功能。這些結構提供一個多功能平台，可用於研究電荷、自旋、晶格與光之間的交互作用，同時也為電子、自旋電子與量子元件開啟新的可能性。
 
-<div class="research-figure">
-  <img src="{{ '/assets/images/Schematic-diagram/UCD.png' | relative_url }}" alt="二維材料元件中的超乾淨介面工程" class="research-image">
-  <p class="research-caption">
-    我們發展先進製程，在二維材料元件中建立超乾淨介面，以實現更高品質的異質結構與更優異的元件效能。
-  </p>
-</div>
+<figure class="research-figure">
+  <img src="{{ '/assets/images/Schematic-diagram/graphene.png' | relative_url }}" alt="石墨烯示意圖" class="research-image" width="1600" height="1000" loading="lazy">
+  <figcaption class="research-caption">石墨烯示意圖</figcaption>
+</figure>
 
 ---
 
@@ -43,12 +41,10 @@ permalink: /zh/research/
 
 透過整合 **新穎材料、介面工程與元件物理**，我們致力於設計下一代電子與自旋電子元件，使其更快速、更節能，並具備全新的功能。
 
-<div class="research-figure">
-  <img src="{{ '/assets/images/Schematic-diagram/spin-devices.png' | relative_url }}" alt="用於電子與自旋電子元件的二維材料" class="research-image">
-  <p class="research-caption">
-    二維材料為電子與自旋電子元件提供新的傳輸模式，可提升操作效率、功能性，並開啟未來科技的新機會。
-  </p>
-</div>
+<figure class="research-figure">
+  <img src="{{ '/assets/images/Schematic-diagram/mos2-fet.png' | relative_url }}" alt="2D TMDCs示意圖" class="research-image" width="1600" height="1000" loading="lazy">
+  <figcaption class="research-caption">2D TMDCs示意圖</figcaption>
+</figure>
 
 ---
 
@@ -61,3 +57,8 @@ permalink: /zh/research/
 除了實驗室量測，我們也整合 **同步輻射技術**，以更深入理解材料結構與電子性質。在臺灣 **國家同步輻射研究中心 (NSRRC)** 與日本 **SPring-8** 等設施進行的實驗，可提供包含 **X-ray diffraction (XRD)**、**angle-resolved photoemission spectroscopy (ARPES)** 與 **hard X-ray photoelectron spectroscopy (HAXPES)** 在內的先進表徵。這些工具讓我們能以高精度研究晶體結構、電子能帶結構與介面電子態。
 
 透過結合光學、電性、磁性與同步輻射技術，我們希望建立對材料、介面與量子效應如何互相作用的完整理解。這些知識將成為設計下一代電子與自旋電子元件的物理基礎。
+
+<figure class="research-figure">
+  <img src="{{ '/assets/images/Schematic-diagram/optical-electrical-measurement.png' | relative_url }}" alt="光學電性量測示意圖" class="research-image" width="1600" height="1120" loading="lazy">
+  <figcaption class="research-caption">光學電性量測示意圖</figcaption>
+</figure>

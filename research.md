@@ -24,12 +24,10 @@ More recently, the 2D material family has expanded to include **nitrides and oth
 
 One of the most powerful features of 2D materials is that they can be assembled like **Lego bricks**. By stacking different atomic layers together, researchers can create **van der Waals heterostructures** in which each layer contributes a distinct function. These structures provide a versatile platform for studying interactions among charge, spin, lattice, and light, while also enabling new possibilities for electronic, spintronic, and quantum devices.
 
-<div class="research-figure">
-  <img src="{{ '/assets/images/Schematic-diagram/UCD.png' | relative_url }}" alt="Ultra-clean interface engineering in 2D material devices" class="research-image">
-  <p class="research-caption">
-    We develop advanced fabrication processes that create ultra-clean interfaces in two-dimensional material devices, enabling higher-quality heterostructures and improved device performance.
-  </p>
-</div>
+<figure class="research-figure">
+  <img src="{{ '/assets/images/Schematic-diagram/graphene.png' | relative_url }}" alt="Schematic illustration of graphene" class="research-image" width="1600" height="1000" loading="lazy">
+  <figcaption class="research-caption">Schematic illustration of graphene</figcaption>
+</figure>
 
 ---
 
@@ -43,12 +41,10 @@ Two-dimensional materials provide exciting opportunities for advancing both elec
 
 By integrating **novel materials, interface engineering, and device physics**, we aim to design next-generation electronic and spintronic devices that are faster, more energy-efficient, and capable of entirely new functionalities.
 
-<div class="research-figure">
-  <img src="{{ '/assets/images/Schematic-diagram/spin-devices.png' | relative_url }}" alt="2D materials for electronic and spintronic devices" class="research-image">
-  <p class="research-caption">
-    Two-dimensional materials provide new transport modes for electronic and spintronic devices, enhancing operational efficiency, functionality, and emerging opportunities for future technologies.
-  </p>
-</div>
+<figure class="research-figure">
+  <img src="{{ '/assets/images/Schematic-diagram/mos2-fet.png' | relative_url }}" alt="Schematic illustration of 2D TMDCs" class="research-image" width="1600" height="1000" loading="lazy">
+  <figcaption class="research-caption">Schematic illustration of 2D TMDCs</figcaption>
+</figure>
 
 ---
 
@@ -61,3 +57,8 @@ Optical techniques such as **Raman spectroscopy** allow us to probe lattice vibr
 In addition to laboratory measurements, we integrate **synchrotron radiation techniques** to obtain deeper insights into material structures and electronic properties. Experiments performed at facilities such as the **National Synchrotron Radiation Research Center (NSRRC)** in Taiwan and **SPring-8** in Japan enable advanced characterizations including **X-ray diffraction (XRD)**, **angle-resolved photoemission spectroscopy (ARPES)**, and **hard X-ray photoelectron spectroscopy (HAXPES)**. These tools allow us to investigate crystal structures, electronic band structures, and interfacial electronic states with high precision.
 
 By combining optical, electrical, magnetic, and synchrotron-based techniques, we aim to build a comprehensive understanding of how materials, interfaces, and quantum effects interact. This knowledge provides the physical foundation for designing the next generation of electronic and spintronic devices.
+
+<figure class="research-figure">
+  <img src="{{ '/assets/images/Schematic-diagram/optical-electrical-measurement.png' | relative_url }}" alt="Schematic illustration of optical and electrical measurements" class="research-image" width="1600" height="1120" loading="lazy">
+  <figcaption class="research-caption">Schematic illustration of optical and electrical measurements</figcaption>
+</figure>
