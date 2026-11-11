@@ -6,23 +6,21 @@ permalink: /research/
 
 ## Research Vision
 
-Our research explores how emerging materials and advanced device engineering can shape next-generation electronic technologies. By combining low-dimensional materials, semiconductor device design, and fundamental physics, we investigate how charge, spin, lattice, and interface effects interact at the nanoscale. These interactions often give rise to physical phenomena that cannot be observed in conventional bulk materials.
-
-By understanding these mechanisms, we aim to design and engineer nanoscale electronic and spintronic devices with improved efficiency, novel functionalities, and enhanced performance for future computing technologies.
+Our research aims to explore how emerging materials and advanced device engineering can shape the next-generation electronic technologies. By combining low-dimensional materials, semiconductor device design, and fundamental physics, we seek to understand how charge, spin, lattice, and interface effects interact at the nanoscale. These interactions often lead to new physical phenomena that cannot be observed in conventional bulk materials. Understanding these mechanisms enables us to engineer nanoscale electronic and spintronic devices with improved efficiency, novel functionalities, and enhanced performance for future computing technologies.
 
 ---
 
 ### 1. Two-Dimensional (2D) Materials
 
-Two-dimensional (2D) materials are crystalline solids that are only a few atoms thick. Unlike conventional materials, their surfaces form atomically sharp interfaces without dangling bonds, making them ideal building blocks for clean heterostructures and novel device architectures. This property allows researchers to combine very different materials in ways that are difficult to achieve in conventional bulk systems.
+A crystal only a few atoms thick can change how we build a device. **Two-dimensional (2D) materials** bring electrons, light, and lattice vibrations into a world where surfaces and interfaces dominate. Many layered 2D materials have surfaces free of dangling bonds, allowing different crystals to meet without the strict lattice matching required in conventional epitaxy. This combination of atomic thickness and flexible integration opens remarkable possibilities for material and device design.
 
-The field of 2D materials began with the discovery of **graphene**, a single layer of carbon atoms arranged in a honeycomb lattice. Graphene exhibits extraordinary properties, including extremely high electrical conductivity, exceptional mechanical strength, and unique quantum transport behavior. Its discovery opened a new frontier in condensed matter physics, nanotechnology, and advanced electronics.
+**Graphene** offers a compelling example of this potential. A single sheet of carbon atoms arranged in a honeycomb lattice combines high carrier mobility, mechanical strength, and efficient heat conduction. Its unusual electronic structure provides a platform for exploring quantum transport and transmitting charge and spin through nanoscale devices.
 
-Following graphene, a large family of **transition metal dichalcogenides (TMDCs)** has attracted significant attention, including materials such as **MoS₂** and **WS₂**. Unlike graphene, many TMDCs are semiconductors with sizable bandgaps, making them promising candidates for transistors, photodetectors, and other electronic or optoelectronic devices. Their strong spin–orbit coupling and valley-related properties also provide exciting opportunities for exploring new quantum phenomena.
+For devices that require a clear electrical on/off state, a semiconductor bandgap becomes essential. **Transition metal dichalcogenides (TMDCs)**, including MoS<sub>2</sub> and WS<sub>2</sub>, meet this need while also interacting strongly with light. Their properties can be tuned through thickness, strain, and composition, supporting applications in transistors, photodetectors, and devices based on spin and valley physics.
 
-More recently, the 2D material family has expanded to include **nitrides and other emerging compounds**, such as **hexagonal boron nitride (h-BN)**, **AlN**, **MoN**, and **W₅N₆**. These materials offer a wide range of functionalities, from atomically flat insulating layers and protective barriers to platforms with potentially novel electronic, magnetic, or superconducting properties.
+The search for a broader range of properties also leads us to **2D nitride-based materials**. At atomic thickness, changes in bonding and electronic structure can produce behavior distinct from that of bulk nitrides. We explore this emerging family to expand the materials available for electronic, optical, and thermal applications.
 
-One of the most powerful features of 2D materials is that they can be assembled like **Lego bricks**. By stacking different atomic layers together, researchers can create **van der Waals heterostructures** in which each layer contributes a distinct function. These structures provide a versatile platform for studying interactions among charge, spin, lattice, and light, while also enabling new possibilities for electronic, spintronic, and quantum devices.
+With this growing range of building blocks, we can move from selecting individual materials to combining their strengths. Like **Lego bricks**, selected atomic layers can be stacked into van der Waals heterostructures. Each layer contributes its own properties, while interactions across interfaces create additional possibilities. By designing these combinations, we explore new physics and develop device functions beyond what a single material can achieve.
 
 <div class="research-figure">
   <img src="{{ '/assets/images/Schematic-diagram/UCD.png' | relative_url }}" alt="Ultra-clean interface engineering in 2D material devices" class="research-image">
@@ -33,15 +31,17 @@ One of the most powerful features of 2D materials is that they can be assembled 
 
 ---
 
-### 2. Electronic and Spintronic Devices
+### 2. 2D Devices: Spin, Photons, and Phonons
 
-Modern electronic devices operate by controlling the flow of charge in semiconductor materials. Transistors, diodes, and integrated circuits form the foundation of today’s information technologies, enabling computing, communication, and sensing systems that shape modern society. As device dimensions continue to shrink and performance demands increase, understanding charge transport at the nanoscale becomes increasingly important.
+Our research uses 2D materials to build devices that control **spin, light, and heat**. When a device is only a few atomic layers thick, its interfaces can govern how signals travel and how energy moves through the structure. We design those interfaces to improve how semiconductor devices store information, convert signals, and manage heat.
 
-Beyond conventional electronics, **spintronics** introduces an additional degree of freedom: the **electron spin**. While traditional devices rely solely on charge transport, spintronic devices utilize both charge and spin to store, process, and transmit information. This approach enables new functionalities such as non-volatile memory, magnetic sensing, and energy-efficient logic devices. Technologies such as **magnetic tunnel junctions (MTJs)** and **spin valves** have already demonstrated practical applications in modern memory and data storage systems.
+In **spintronic devices**, we use electron spin to carry information. We study how spins are injected, transmitted, and filtered across interfaces in spin valves and magnetic tunnel junctions. In these devices, a change in magnetic configuration produces a change in electrical resistance, allowing the magnetic state to be read electrically. By preserving spin information under practical operating conditions, we aim to develop sensitive magnetic sensors and support lower energy computing and memory that retains information without continuous power.
 
-Two-dimensional materials provide exciting opportunities for advancing both electronic and spintronic devices. Their atomically thin nature allows precise control of interfaces and electronic structures, which is crucial for efficient charge transport and spin manipulation. When integrated with magnetic materials or engineered heterostructures, these systems can reveal new transport phenomena and enable novel device concepts.
+Light offers another way to change a device state and read it electrically. In our **optoelectronic devices**, we use 2D semiconductors and heterostructures to detect light, generate light from electrical signals, and control how illumination changes conductivity. Their atomic thickness and tunable band alignment make them attractive for compact optical components that can be integrated with semiconductor circuits. By controlling how long photoexcited carriers remain trapped, we also explore memory that can be written with light and read electrically.
 
-By integrating **novel materials, interface engineering, and device physics**, we aim to design next-generation electronic and spintronic devices that are faster, more energy-efficient, and capable of entirely new functionalities.
+As more components are integrated onto a chip, controlling the heat they generate becomes increasingly important. This brings us to **phononic devices**, which control the lattice vibrations that carry much of the heat in semiconductors. We engineer materials and interfaces to guide or restrict heat flow, with the aim of improving the thermal stability of chips and memory. We also explore whether these structures can serve as thermal switches or allow heat to flow more readily in one direction than the other.
+
+We judge these designs by what changes in operation: **stronger readout signals, lower energy consumption, and more stable performance as temperature rises**.
 
 <div class="research-figure">
   <img src="{{ '/assets/images/Schematic-diagram/spin-devices.png' | relative_url }}" alt="2D materials for electronic and spintronic devices" class="research-image">
@@ -54,10 +54,12 @@ By integrating **novel materials, interface engineering, and device physics**, w
 
 ### 3. Fundamental Physical Mechanisms
 
-To understand how electronic and spintronic devices operate at the microscopic level, our research focuses on uncovering the **fundamental physical mechanisms** governing charge and spin transport. We approach this challenge from three complementary perspectives: **light, electricity, and magnetism**.
+A change in current tells us how a device responds. To understand what drives that response, we look at how charge and spin move, how light interacts with matter, and how lattice vibrations carry energy. These processes connect the **microscopic properties of materials** to the performance we measure in a device.
 
-Optical techniques such as **Raman spectroscopy** allow us to probe lattice vibrations and interactions among electrons, phonons, and spins in low-dimensional materials. Electrical measurements, including **Hall transport** and **magnetoresistance**, reveal how electrons and spins move through materials and across interfaces. These experiments provide direct insight into carrier dynamics, spin transport, and the mechanisms that determine device performance.
+In atomically thin devices, much of this physics plays out at **interfaces**. When a metal meets a 2D semiconductor, charge transfer, chemical reactions, and defects can reshape the electronic states at the contact. We investigate how those changes set the energy barrier for carrier injection, pin the Fermi level, and affect tunneling and spin polarization.
 
-In addition to laboratory measurements, we integrate **synchrotron radiation techniques** to obtain deeper insights into material structures and electronic properties. Experiments performed at facilities such as the **National Synchrotron Radiation Research Center (NSRRC)** in Taiwan and **SPring-8** in Japan enable advanced characterizations including **X-ray diffraction (XRD)**, **angle-resolved photoemission spectroscopy (ARPES)**, and **hard X-ray photoelectron spectroscopy (HAXPES)**. These tools allow us to investigate crystal structures, electronic band structures, and interfacial electronic states with high precision.
+To see how these mechanisms influence device behavior, we combine spectroscopy with transport measurements. **Raman and photoluminescence spectroscopy** track lattice vibrations and optical transitions as we vary temperature, strain, or doping. **Electrical and magnetotransport measurements** show how current responds to changes in temperature, bias, and magnetic field. These responses help us distinguish the effects of carrier injection, scattering, trapping, and spin-dependent conduction.
 
-By combining optical, electrical, magnetic, and synchrotron-based techniques, we aim to build a comprehensive understanding of how materials, interfaces, and quantum effects interact. This knowledge provides the physical foundation for designing the next generation of electronic and spintronic devices.
+To examine the structures and electronic states behind these responses, we use **synchrotron radiation** at facilities such as the **National Synchrotron Radiation Research Center (NSRRC)** in Taiwan and **SPring-8** in Japan. X-ray diffraction (XRD) identifies crystal structure, and angle-resolved photoemission spectroscopy (ARPES) maps how electron energy varies with momentum. Hard X-ray photoelectron spectroscopy (HAXPES) lets us probe chemical and electronic states beneath an electrode, where a buried interface can determine how efficiently charge and spin enter the semiconductor.
+
+By comparing what we measure in the device with what we observe at the interface, we can identify where performance is limited and decide what to change, from the choice of contact material to the way the interface is formed.
