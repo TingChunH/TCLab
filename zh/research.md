@@ -23,8 +23,13 @@ permalink: /zh/research/
 隨著可用的材料愈來愈多，我們也能把不同材料的優點結合起來，這些原子層可以像樂高積木一樣堆疊，形成凡得瓦異質結構，每一層保有自身的特性，層與層之間的交互作用則可能帶來新的物理行為，透過設計這些組合，我們探索新的物理現象，也開發單一材料難以實現的元件功能。
 
 <figure class="research-figure">
-  <img src="{{ '/assets/images/Schematic-diagram/graphene.png' | relative_url }}" alt="石墨烯示意圖" class="research-image" width="1600" height="1000" loading="lazy">
+  <img src="{{ '/assets/images/Schematic-diagram/graphene.png' | relative_url }}" alt="石墨烯示意圖" class="research-image" width="1600" height="934" loading="lazy">
   <figcaption class="research-caption">石墨烯示意圖</figcaption>
+</figure>
+
+<figure class="research-figure">
+  <img src="{{ '/assets/images/Schematic-diagram/cvd-2d-material-growth.png' | relative_url }}" alt="CVD成長 2D材料示意圖" class="research-image" width="1600" height="924" loading="lazy">
+  <figcaption class="research-caption">CVD成長 2D材料示意圖</figcaption>
 </figure>
 
 ---

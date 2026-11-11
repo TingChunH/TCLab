@@ -23,8 +23,13 @@ The search for a broader range of properties also leads us to **2D nitride-based
 With this growing range of building blocks, we can move from selecting individual materials to combining their strengths. Like **Lego bricks**, selected atomic layers can be stacked into van der Waals heterostructures. Each layer contributes its own properties, while interactions across interfaces create additional possibilities. By designing these combinations, we explore new physics and develop device functions beyond what a single material can achieve.
 
 <figure class="research-figure">
-  <img src="{{ '/assets/images/Schematic-diagram/graphene.png' | relative_url }}" alt="Schematic illustration of graphene" class="research-image" width="1600" height="1000" loading="lazy">
+  <img src="{{ '/assets/images/Schematic-diagram/graphene.png' | relative_url }}" alt="Schematic illustration of graphene" class="research-image" width="1600" height="934" loading="lazy">
   <figcaption class="research-caption">Schematic illustration of graphene</figcaption>
+</figure>
+
+<figure class="research-figure">
+  <img src="{{ '/assets/images/Schematic-diagram/cvd-2d-material-growth.png' | relative_url }}" alt="Schematic illustration of CVD growth of 2D materials" class="research-image" width="1600" height="924" loading="lazy">
+  <figcaption class="research-caption">Schematic illustration of CVD growth of 2D materials</figcaption>
 </figure>
 
 ---
