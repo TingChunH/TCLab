@@ -6,36 +6,39 @@ permalink: /join-us/
 
 # Join Us
 
-We are always looking for curious and motivated students who are excited about exploring the frontiers of semiconductor physics, nanotechnology, and emerging electronic materials. If you enjoy asking deep scientific questions and turning ideas into real devices, our lab may be the right place for you.
-
----
-
 ## Opportunities
 
-We welcome **undergraduate students, master's students, and Ph.D. students** who are interested in semiconductor physics, nanotechnology, and advanced materials to join our research team. Students in our lab work on cutting-edge topics including **two-dimensional materials, spintronic devices, and nanoscale electronic systems**.
+We welcome **undergraduate students, master’s students, and Ph.D. students** from any university or academic discipline. If you’re interested in joining our research team, please email us to discuss how you might get involved.
 
-Research projects often combine **materials growth, device fabrication, electrical measurements, and physical mechanism studies**, providing students with both fundamental understanding and practical engineering experience.
+We’re looking for students who are excited about technology and engineering and curious about the physics behind how materials and devices work. Together, we explore open questions in nanoscale materials and use what we learn to design semiconductor devices with new electronic and spintronic capabilities.
 
 ---
 
 ## What You Will Learn
 
-In our lab, you will gain **hands-on training in semiconductor fabrication and experimental techniques** used in modern device research. You will learn how to transform creative ideas into functional engineering solutions and develop strong **data analysis and problem-solving skills**.
+You will gain hands-on research experience by growing materials, fabricating devices, measuring and analyzing material and device properties, and building AI-assisted equipment. You will also have opportunities to develop as a researcher by contributing to international research collaborations and participating in international conferences.
 
-Students will also learn how to uncover the **underlying physical mechanisms** that govern electronic and spintronic device behavior. In addition to technical training, we emphasize the ability to **communicate science clearly** through effective presentations and scientific storytelling.
+Through day-to-day lab work, you will learn to collaborate with teammates, communicate clearly, and help manage lab operations. These responsibilities will help you build the interpersonal and organizational skills you’ll need in the workplace.
 
-We also encourage students to integrate **artificial intelligence tools** into their research workflow, enabling smarter data analysis, faster research iteration, and more innovative project development.
+---
+
+## What the PI Wants You to Know
+
+We’re passionate about solving research problems, and for me, how we treat and work with one another comes first. I see the interview as a two-way conversation. It’s a chance for you to share what you hope to learn and for me to share how we work at TCLab. That conversation helps us both decide whether the lab is a good fit and where you could grow and contribute.
+
+I welcome a limited number of new members each year so I can give each person the time and guidance they need. My goal is for everyone to leave TCLab with a body of research they can call their own, solid expertise in their field, and the confidence to present their work, collaborate with others, and build professional relationships.
+
+I believe your time at TCLab can be both joyful and challenging. I hope you’ll enjoy working with your labmates, find questions worth pursuing, and take pride in the work you do here.
 
 ---
 
 ## How to Apply
 
-If you are interested in joining the lab, please send the following materials to:
+Send the following materials to:
 
-**Email:**  
-[tingchunh@ntu.edu.tw](mailto:tingchunh@ntu.edu.tw?subject=TC%20Lab%20Application)
+Email: [tingchunh@ntu.edu.tw](mailto:tingchunh@ntu.edu.tw)
 
-### Required Materials
+### Required materials
 
-- Self-introduction  
+- Self-introduction
 - Short statement of interest
