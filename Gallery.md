@@ -11,6 +11,13 @@ Moments from TC Lab activities, research discussions, student life, and academic
 <div class="gallery-grid">
 
   <div class="gallery-card">
+    <img src="{{ '/assets/images/gallery/2026-11-12-po-han-lee-ai-lecture.jpg' | relative_url }}" alt="Group photo at Professor Po-Han Lee's guest lecture on AI at National Taiwan University" class="gallery-photo" loading="lazy">
+    <div class="gallery-info">
+      <h3>November 12, 2026: Guest Lecture on AI by Professor Po-Han Lee at National Taiwan University</h3>
+    </div>
+  </div>
+
+  <div class="gallery-card">
     <img src="{{ '/assets/images/gallery/2026-10-31-osaka-lab-dinner.jpg' | relative_url }}" alt="TC Lab dinner in Osaka, Japan" class="gallery-photo" loading="lazy">
     <div class="gallery-info">
       <h3>October 31, 2026 TC Lab Dinner in Osaka</h3>

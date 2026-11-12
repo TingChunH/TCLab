@@ -11,6 +11,13 @@ TC Lab 的實驗室活動、研究討論、學生生活與學術活動紀錄。
 <div class="gallery-grid">
 
   <div class="gallery-card">
+    <img src="{{ '/assets/images/gallery/2026-11-12-po-han-lee-ai-lecture.jpg' | relative_url }}" alt="李柏翰教授於臺大 AI 主題演講後的合照" class="gallery-photo" loading="lazy">
+    <div class="gallery-info">
+      <h3>2026年11月12日 邀請李柏翰教授蒞臨臺大進行 AI 主題演講</h3>
+    </div>
+  </div>
+
+  <div class="gallery-card">
     <img src="{{ '/assets/images/gallery/2026-10-31-osaka-lab-dinner.jpg' | relative_url }}" alt="TC Lab 於日本大阪聚餐" class="gallery-photo" loading="lazy">
     <div class="gallery-info">
       <h3>2026/10/31 TC Lab 大阪聚餐</h3>
